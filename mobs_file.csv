@@ -1,0 +1,2150 @@
+CITY,MOB,LEVEL,AMOUNT,AGGRESSIVE
+alberta,Wild Rose,38,1,False
+aldebaran,Wild Rose,38,1,False
+ama_fild01,Poporing,14,15,False
+ama_fild01,Bigfoot,25,15,False
+ama_fild01,Hydra,14,14,True
+ama_fild01,Karakasa,30,50,False
+ama_fild01,Poison Toad,46,1,False
+ama_fild01,Miyabi Ningyo / Miyabi Doll,33,2,False
+ama_fild01,Kapha,41,15,True
+amatsu,Wild Rose,38,1,False
+ayo_fild01,Smokie,18,30,False
+ayo_fild01,Yoyo,21,30,False
+ayo_fild01,Green Plant,1,10,False
+ayo_fild01,Coco,17,30,False
+ayo_fild01,Leaf Cat,38,3,False
+ayo_fild02,Yellow Plant,1,10,False
+ayo_fild02,Beetle King,34,30,False
+ayo_fild02,Wootan Fighter,41,20,True
+ayo_fild02,Leaf Cat,38,50,False
+ayothaya,Wild Rose,38,1,False
+beach_dun,Medusa,79,60,True
+beach_dun,Neraid / Nereid,40,20,True
+beach_dun,Pest,40,20,True
+beach_dun,Merman,53,3,True
+beach_dun,Tao Gunka [MVP],70,1,True
+beach_dun2,Hydra,14,10,True
+beach_dun2,Neraid / Nereid,40,10,True
+beach_dun2,Megalith,45,15,True
+beach_dun2,Stalactic Golem,60,65,False
+beach_dun2,Tri Joint,32,20,True
+beach_dun3,Thara Frog,22,50,False
+beach_dun3,Megalodon,24,30,False
+beach_dun3,Hydra,14,30,True
+beach_dun3,Neraid / Nereid,40,1,True
+bif_fild01,Cornus,108,17,False
+bif_fild01,Luciola Vespa,104,29,True
+bif_fild01,Pom Spider (Re-Stats),145,5,True
+bif_fild01,Angra Mantis (Re-Stats),144,5,True
+bif_fild01,Little Fatum (Re-Stats),142,34,True
+bif_fild01,Miming (Re-Stats),140,58,True
+bif_fild02,Cornus,108,16,False
+bif_fild02,Luciola Vespa,104,27,True
+bif_fild02,Pom Spider (Re-Stats),145,5,True
+bif_fild02,Angra Mantis (Re-Stats),144,5,True
+bif_fild02,Little Fatum (Re-Stats),142,55,True
+bif_fild02,Miming (Re-Stats),140,33,True
+bra_fild01,Red Mushroom,1,3,False
+bra_fild01,Dokebi,33,20,False
+bra_fild01,Savage,26,20,False
+bra_fild01,Headless Mule,80,40,True
+bra_fild01,Jaguar,71,10,True
+bra_fild01,Toucan,70,10,True
+bra_fild01,Curupira,68,80,False
+brasilis,Wild Rose,38,1,False
+brasilis,Suspicious Hydra / Strange Hydra,34,18,False
+cmd_fild01,Poporing,14,30,False
+cmd_fild01,Poison Spore,19,20,True
+cmd_fild01,Blue Plant,1,6,False
+cmd_fild01,Green Plant,1,5,False
+cmd_fild01,Shining Plant,1,1,False
+cmd_fild01,Savage,26,30,False
+cmd_fild01,Alligator,42,60,False
+cmd_fild02,Cornutus,23,10,False
+cmd_fild02,Crab,20,20,False
+cmd_fild02,Shellfish,15,5,False
+cmd_fild02,Raggler,21,30,True
+cmd_fild02,Aster,18,10,False
+cmd_fild02,Alligator,42,10,False
+cmd_fild02,Mobster,61,1,True
+cmd_fild02,Fur Seal / Seal,63,18,True
+cmd_fild02,Galapago,61,20,False
+cmd_fild03,Poporing,14,10,False
+cmd_fild03,Shining Plant,1,3,False
+cmd_fild03,Toad,10,1,True
+cmd_fild03,Anolian,61,90,True
+cmd_fild03,Pest,40,30,True
+cmd_fild03,Mutant Dragon / Mutant Dragonoid,65,1,True
+cmd_fild04,Crab,20,20,False
+cmd_fild04,Shellfish,15,20,False
+cmd_fild04,Raggler,21,20,True
+cmd_fild04,Aster,18,45,False
+cmd_fild04,Alligator,42,40,False
+cmd_fild04,Sea Otter,59,20,True
+cmd_fild05,Poporing,14,10,False
+cmd_fild05,Green Plant,1,5,False
+cmd_fild05,Yellow Plant,1,6,False
+cmd_fild05,Shining Plant,1,1,False
+cmd_fild05,Frilldora,30,45,True
+cmd_fild05,Stem Worm,40,5,True
+cmd_fild05,Pest,40,5,True
+cmd_fild05,Alligator,42,20,False
+cmd_fild06,Yellow Plant,1,5,False
+cmd_fild06,Drops,3,20,False
+cmd_fild06,Goblin Archer,28,10,True
+cmd_fild06,Kobold Archer,33,5,True
+cmd_fild06,Harpy,70,1,True
+cmd_fild07,Crab,20,5,False
+cmd_fild07,Shellfish,15,5,False
+cmd_fild07,Drops,3,20,False
+cmd_fild07,Raggler,21,2,True
+cmd_fild07,Aster,18,5,False
+cmd_fild08,Side Winder,43,20,True
+cmd_fild08,Yellow Plant,1,8,False
+cmd_fild08,Drops,3,10,False
+cmd_fild08,Sandman,34,15,True
+cmd_fild08,Stem Worm,40,5,True
+cmd_fild08,Goblin Archer,28,20,True
+cmd_fild08,Gryphon,72,1,True
+cmd_fild08,Kobold Archer,33,17,True
+cmd_fild09,Condor,5,20,False
+cmd_fild09,Anacondaq,23,60,False
+cmd_fild09,Steel Chonchon,17,20,False
+cmd_fild09,Drops,3,20,False
+cmd_fild09,Hode,26,3,False
+cmd_fild09,Gargoyle,48,2,True
+comodo,Wild Rose,38,1,False
+dew_fild01,Argiope,41,45,True
+dew_fild01,Alnoldi / Rafflesia Alnoldi (Re-Stats),80,60,True
+dew_fild01,Cendrawasih (Re-Stats),84,10,True
+dewata,Wild Rose,38,1,False
+dic_dun01,Scaraba / One-Horned Scaraba (Re-Stats),130,50,False
+dic_dun01,Scaraba / Two-Horned Scaraba (Re-Stats),134,45,False
+dic_dun01,Scaraba Egg (Re-Stats),125,15,False
+dic_dun01,Scaraba Egg (Re-Stats),126,15,False
+dic_fild01,Tatacho,106,25,False
+dic_fild01,Centipede,110,60,True
+dic_fild01,Centipede Larva,80,30,True
+dic_fild01,Dolomedes (Re-Stats),132,20,True
+dic_fild02,Tatacho,106,25,False
+dic_fild02,Centipede,110,35,True
+dic_fild02,Centipede Larva,80,10,True
+dic_fild02,Bradium Golem,101,3,True
+dic_fild02,Dolomedes (Re-Stats),132,80,True
+ecl_fild01,Menblatt (Re-Stats),143,60,True
+ecl_fild01,Petal (Re-Stats),141,20,True
+ein_fild01,Punk,43,45,True
+ein_fild01,Demon Pungus,56,50,True
+ein_fild02,Demon Pungus,56,30,True
+ein_fild02,Driller,52,45,True
+ein_fild02,Ungoliant,69,1,True
+ein_fild03,Green Plant,1,15,False
+ein_fild03,Yellow Plant,1,15,False
+ein_fild03,Caramel,23,10,False
+ein_fild03,Horn,18,5,False
+ein_fild03,Geographer,56,20,True
+ein_fild03,Metaling,26,30,False
+ein_fild03,Mole / Holden,36,40,False
+ein_fild04,Red Plant,1,10,False
+ein_fild04,Green Plant,1,10,False
+ein_fild04,Yellow Plant,1,10,False
+ein_fild04,Giearth,29,10,False
+ein_fild04,Geographer,56,80,True
+ein_fild04,Metaling,26,50,False
+ein_fild04,Mineral,56,5,False
+ein_fild04,Mole / Holden,36,20,False
+ein_fild05,Geographer,56,10,True
+ein_fild05,Demon Pungus,56,10,True
+ein_fild05,Mineral,56,35,False
+ein_fild05,Obsidian,50,17,True
+ein_fild05,Anopheles,23,30,True
+ein_fild06,Pupa,2,10,False
+ein_fild06,Red Plant,1,10,False
+ein_fild06,Yellow Plant,1,10,False
+ein_fild06,Black Mushroom,1,5,False
+ein_fild06,Giearth,29,2,False
+ein_fild06,Goat,69,55,False
+ein_fild06,Harpy,70,5,True
+ein_fild07,Poring,1,40,False
+ein_fild07,Poporing,14,20,False
+ein_fild07,Red Plant,1,10,False
+ein_fild07,Yellow Plant,1,10,False
+ein_fild07,Red Mushroom,1,10,False
+ein_fild07,Flora,26,20,True
+ein_fild07,Geographer,56,20,True
+ein_fild07,Metaling,26,60,False
+ein_fild07,Ungoliant,69,1,True
+ein_fild08,Poring,1,25,False
+ein_fild08,Poporing,14,25,False
+ein_fild08,Thief Bug,6,30,False
+ein_fild08,Red Plant,1,10,False
+ein_fild08,Yellow Plant,1,10,False
+ein_fild08,Red Mushroom,1,10,False
+ein_fild08,Drops,3,25,False
+ein_fild08,Metaling,26,25,False
+ein_fild08,Porcellio,28,10,False
+ein_fild09,Thief Bug Egg,4,3,False
+ein_fild09,Thief Bug,6,20,False
+ein_fild09,Red Plant,1,10,False
+ein_fild09,Yellow Plant,1,10,False
+ein_fild09,Red Mushroom,1,10,False
+ein_fild09,Flora,26,5,True
+ein_fild09,Metaling,26,10,False
+ein_fild09,Porcellio,28,70,False
+ein_fild10,Yoyo,21,10,False
+ein_fild10,Red Plant,1,20,False
+ein_fild10,Blue Plant,1,20,False
+ein_fild10,Yellow Plant,1,20,False
+ein_fild10,Flora,26,20,True
+ein_fild10,Geographer,56,5,True
+ein_fild10,Porcellio,28,30,False
+einbech,Tarou,11,5,False
+einbech,Wild Rose,38,1,False
+einbroch,Wild Rose,38,1,False
+gef_fild00,Poring,1,50,False
+gef_fild00,Fabre,2,50,False
+gef_fild00,Pupa,2,20,False
+gef_fild00,Poporing,14,10,False
+gef_fild00,Blue Plant,1,2,False
+gef_fild00,Green Plant,1,6,False
+gef_fild01,Roda Frog,5,50,False
+gef_fild01,Poporing,14,20,False
+gef_fild01,Green Plant,1,5,False
+gef_fild01,Toad,10,1,True
+gef_fild02,Orc Warrior,24,60,True
+gef_fild02,Smokie,18,10,False
+gef_fild02,Yoyo,21,10,False
+gef_fild02,Blue Plant,1,4,False
+gef_fild02,Green Plant,1,8,False
+gef_fild02,Shining Plant,1,1,False
+gef_fild02,Red Mushroom,1,5,False
+gef_fild02,Orc Hero [MVP],77,1,True
+gef_fild02,Coco,17,10,False
+gef_fild02,Choco,43,1,True
+gef_fild03,Orc Warrior,24,60,True
+gef_fild03,Poporing,14,20,False
+gef_fild03,Green Plant,1,21,False
+gef_fild03,Savage,26,40,False
+gef_fild03,High Orc,52,1,True
+gef_fild04,Poring,1,30,False
+gef_fild04,Fabre,2,20,False
+gef_fild04,Pupa,2,60,False
+gef_fild04,Chonchon,4,30,False
+gef_fild04,Roda Frog,5,20,False
+gef_fild04,Green Plant,1,6,False
+gef_fild05,Poring,1,30,False
+gef_fild05,Red Plant,1,15,False
+gef_fild05,Dustiness,21,30,False
+gef_fild05,Wild Rose,38,50,False
+gef_fild05,Kobold Archer,33,10,True
+gef_fild06,Poporing,14,10,False
+gef_fild06,Shining Plant,1,4,False
+gef_fild06,Kobold,36,20,True
+gef_fild06,Kobold,31,10,True
+gef_fild06,Kobold,31,10,True
+gef_fild06,Mantis,26,20,True
+gef_fild06,Petite,45,50,True
+gef_fild07,Poring,1,20,False
+gef_fild07,Fabre,2,60,False
+gef_fild07,Pupa,2,10,False
+gef_fild07,Chonchon,4,30,False
+gef_fild07,Blue Plant,1,1,False
+gef_fild07,Green Plant,1,6,False
+gef_fild07,Shining Plant,1,1,False
+gef_fild08,Golem,25,40,False
+gef_fild08,Steel Chonchon,17,20,False
+gef_fild08,Poison Spore,19,20,True
+gef_fild08,Blue Plant,1,8,False
+gef_fild08,Kobold,36,20,True
+gef_fild08,Kobold,31,40,True
+gef_fild08,Kobold,31,20,True
+gef_fild09,Poporing,14,10,False
+gef_fild09,Poison Spore,19,10,True
+gef_fild09,Blue Plant,1,3,False
+gef_fild09,Red Mushroom,1,10,False
+gef_fild09,Ambernite,13,60,False
+gef_fild10,Orc Warrior,24,20,True
+gef_fild10,Poporing,14,15,False
+gef_fild10,Blue Plant,1,6,False
+gef_fild10,Green Plant,1,3,False
+gef_fild10,Orc Lord [MVP],74,1,True
+gef_fild10,Orc Lady,31,70,True
+gef_fild10,Orc Baby,21,5,True
+gef_fild11,Poporing,14,15,False
+gef_fild11,Black Mushroom,1,21,False
+gef_fild11,Goblin,25,30,True
+gef_fild11,Goblin,24,20,True
+gef_fild11,Goblin,24,20,True
+gef_fild11,Goblin,23,20,True
+gef_fild11,Goblin,22,20,True
+gef_fild11,Goblin Archer,28,20,True
+gef_fild11,Goblin Leader,64,1,True
+gef_fild11,Rotar Zairo,25,10,True
+gef_fild12,Poporing,14,20,False
+gef_fild12,Kobold,36,20,True
+gef_fild12,Kobold,31,30,True
+gef_fild12,Kobold,31,30,True
+gef_fild12,Kobold Archer,33,40,True
+gef_fild12,Kobold Leader,65,1,True
+gef_fild13,Creamy,16,40,False
+gef_fild13,Poporing,14,20,False
+gef_fild13,Ambernite,13,30,False
+gef_fild14,Orc Warrior,24,10,True
+gef_fild14,Orc Hero [MVP],77,1,True
+gef_fild14,Orc Archer,49,30,True
+gef_fild14,High Orc,52,70,True
+gef_fild14,Orc Lady,31,20,True
+geffen,Wild Rose,38,1,False
+glast_01,Blue Plant,1,2,False
+glast_01,Green Plant,1,8,False
+glast_01,Shining Plant,1,1,False
+glast_01,Knight of Abyss / Abysmal Knight,79,2,True
+glast_01,Gargoyle,48,10,True
+gon_fild01,Poporing,14,20,False
+gon_fild01,Green Plant,1,5,False
+gon_fild01,Shining Plant,1,1,False
+gon_fild01,Rice Cake Boy / Dumpling Child,27,30,False
+gon_fild01,Wild Ginseng / Hermit Plant,46,2,False
+gon_fild01,Baby Leopard,32,40,True
+gon_fild01,Zipper Bear,35,20,False
+gonryun,Wild Rose,38,1,False
+hu_fild01,Geographer,56,30,True
+hu_fild01,Demon Pungus,56,30,True
+hu_fild01,Breeze,56,5,True
+hu_fild01,Plasma,56,5,True
+hu_fild01,Plasma,43,5,True
+hu_fild01,Plasma,47,5,True
+hu_fild01,Plasma,49,5,True
+hu_fild01,Plasma,44,5,True
+hu_fild02,Geographer,56,10,True
+hu_fild02,Demon Pungus,56,3,True
+hu_fild02,Anopheles,23,30,True
+hu_fild02,Green Iguana / Grove,54,20,False
+hu_fild02,Breeze,56,10,True
+hu_fild02,Novus,42,20,True
+hu_fild02,Novus,43,40,True
+hu_fild03,Poporing,14,20,False
+hu_fild03,Thief Bug,6,10,False
+hu_fild03,Black Mushroom,1,10,False
+hu_fild03,Red Mushroom,1,10,False
+hu_fild03,Green Iguana / Grove,54,70,False
+hu_fild03,Novus,42,30,True
+hu_fild04,Blue Plant,1,6,False
+hu_fild04,Green Plant,1,10,False
+hu_fild04,Yellow Plant,1,10,False
+hu_fild04,Petite,44,10,True
+hu_fild04,Petite,45,60,True
+hu_fild04,Deleter,66,10,True
+hu_fild04,Deleter,65,10,True
+hu_fild04,Sleeper,67,7,True
+hu_fild04,Anopheles,23,30,True
+hu_fild04,Green Iguana / Grove,54,20,False
+hu_fild04,Breeze,56,20,True
+hu_fild04,Novus,42,20,True
+hu_fild04,Novus,43,10,True
+hu_fild05,Mutant Dragon / Mutant Dragonoid,65,4,True
+hu_fild05,Anopheles,23,3,True
+hu_fild05,Green Iguana / Grove,54,60,False
+hu_fild05,Novus,42,8,True
+hu_fild05,Novus,43,6,True
+hu_fild05,Dragon Egg,43,4,False
+hu_fild06,Poring,1,10,False
+hu_fild06,Poporing,14,10,False
+hu_fild06,Green Plant,1,10,False
+hu_fild06,Yellow Plant,1,10,False
+hu_fild06,Caramel,23,20,False
+hu_fild06,Metaling,26,10,False
+hu_fild06,Mole / Holden,36,50,False
+hu_fild07,Yellow Plant,1,20,False
+hu_fild07,Petite,44,60,True
+hu_fild07,Petite,45,20,True
+hu_fild07,Geographer,56,20,True
+hu_fild07,Demon Pungus,56,10,True
+hu_fild07,Deleter,66,10,True
+hu_fild07,Deleter,65,10,True
+hu_fild07,Anopheles,23,30,True
+hu_fild07,Green Iguana / Grove,54,10,False
+hu_fild07,Breeze,56,10,True
+hu_fild07,Novus,42,10,True
+hu_fild07,Novus,43,10,True
+hugel,Wild Rose,38,1,False
+izlude,Wild Rose,38,1,False
+jawaii,Shellfish,15,1,False
+jawaii,Phen,26,3,False
+jawaii,Aster,18,2,False
+lhz_fild01,Red Plant,1,10,False
+lhz_fild01,Green Plant,1,10,False
+lhz_fild01,Yellow Plant,1,10,False
+lhz_fild01,Caramel,23,20,False
+lhz_fild01,Metaling,26,70,False
+lhz_fild01,Mole / Holden,36,30,False
+lhz_fild02,Green Plant,1,15,False
+lhz_fild02,Yellow Plant,1,15,False
+lhz_fild02,Caramel,23,30,False
+lhz_fild02,Horn,18,10,False
+lhz_fild02,Metaling,26,50,False
+lhz_fild02,Anopheles,23,10,True
+lhz_fild02,Mole / Holden,36,10,False
+lhz_fild03,Red Plant,1,10,False
+lhz_fild03,Green Plant,1,10,False
+lhz_fild03,Caramel,23,20,False
+lhz_fild03,Horn,18,10,False
+lhz_fild03,Rafflesia,17,5,True
+lhz_fild03,Stem Worm,40,50,True
+lhz_fild03,Metaling,26,20,False
+lhz_fild03,Anopheles,23,20,True
+lhz_fild03,Hill Wind,45,10,True
+lighthalzen,Wild Rose,38,1,False
+lou_fild01,Anacondaq,23,5,False
+lou_fild01,Bigfoot,25,11,False
+lou_fild01,Yellow Plant,1,10,False
+lou_fild01,Black Mushroom,1,5,False
+lou_fild01,Caramel,23,21,False
+lou_fild01,Mantis,26,30,True
+lou_fild01,Increase Soil / Mi Gao,51,15,False
+louyang,Wild Rose,38,1,False
+ma_fild01,Tikbalang (Re-Stats),115,50,True
+ma_fild01,Tiyanak (Re-Stats),105,50,True
+ma_fild01,Jejeling (Re-Stats),100,30,False
+ma_fild02,Bungisngis (Re-Stats),121,40,True
+ma_fild02,Engkanto (Re-Stats),125,25,True
+ma_fild02,Mangkukulam (Re-Stats),110,30,True
+ma_fild02,Wakwak (Re-Stats),111,25,True
+ma_fild02,Jejeling (Re-Stats),100,20,False
+malaya,Wild Rose,38,1,False
+man_fild01,Centipede,110,2,True
+man_fild01,Nepenthes,75,105,True
+man_fild01,Hillslion,105,10,True
+man_fild01,Centipede Larva,80,30,True
+man_fild02,Tatacho,106,25,False
+man_fild02,Centipede,110,35,True
+man_fild02,Bradium Golem,101,50,True
+man_fild03,Tatacho,106,25,False
+man_fild03,Centipede,110,25,True
+man_fild03,Hillslion,105,25,True
+man_fild03,Hardrock Mammoth,115,1,True
+mjolnir_01,Creamy,16,20,False
+mjolnir_01,Blue Plant,1,5,False
+mjolnir_01,Green Plant,1,10,False
+mjolnir_01,Shining Plant,1,2,False
+mjolnir_01,Caramel,23,40,False
+mjolnir_01,Coco,17,70,False
+mjolnir_01,Horn,18,20,False
+mjolnir_01,Stainer,16,20,False
+mjolnir_02,Hornet,8,30,False
+mjolnir_02,Creamy,16,20,False
+mjolnir_02,Poporing,14,10,False
+mjolnir_02,Red Plant,1,6,False
+mjolnir_02,Blue Plant,1,6,False
+mjolnir_02,Green Plant,1,23,False
+mjolnir_02,Flora,26,30,True
+mjolnir_02,Petite,44,50,True
+mjolnir_03,Creamy,16,10,False
+mjolnir_03,Poporing,14,10,False
+mjolnir_03,Green Plant,1,13,False
+mjolnir_03,Shining Plant,1,2,False
+mjolnir_03,Argos,25,20,True
+mjolnir_03,Flora,26,10,True
+mjolnir_03,Mantis,26,30,True
+mjolnir_03,Petite,45,70,True
+mjolnir_04,Hornet,8,70,False
+mjolnir_04,Poporing,14,10,False
+mjolnir_04,Mistress [MVP],74,1,True
+mjolnir_04,Green Plant,1,17,False
+mjolnir_04,Shining Plant,1,3,False
+mjolnir_04,Argiope,41,20,True
+mjolnir_04,Flora,26,30,True
+mjolnir_04,Mantis,26,20,True
+mjolnir_05,Poporing,14,10,False
+mjolnir_05,Red Plant,1,10,False
+mjolnir_05,Blue Plant,1,9,False
+mjolnir_05,Shining Plant,1,1,False
+mjolnir_05,Argiope,41,70,True
+mjolnir_05,Argos,25,20,True
+mjolnir_05,Flora,26,20,True
+mjolnir_05,Mantis,26,40,True
+mjolnir_06,Poporing,14,20,False
+mjolnir_06,Blue Plant,1,2,False
+mjolnir_06,Red Mushroom,1,8,False
+mjolnir_06,Caramel,23,30,False
+mjolnir_06,Coco,17,20,False
+mjolnir_06,Horn,18,20,False
+mjolnir_06,Stainer,16,70,False
+mjolnir_07,Hornet,8,20,False
+mjolnir_07,Poporing,14,20,False
+mjolnir_07,Poison Spore,19,60,True
+mjolnir_07,Blue Plant,1,2,False
+mjolnir_07,Green Plant,1,7,False
+mjolnir_07,Red Mushroom,1,2,False
+mjolnir_07,Ambernite,13,30,False
+mjolnir_07,Coco,17,20,False
+mjolnir_07,Horn,18,20,False
+mjolnir_08,Poring,1,10,False
+mjolnir_08,Poporing,14,20,False
+mjolnir_08,Blue Plant,1,2,False
+mjolnir_08,Green Plant,1,6,False
+mjolnir_08,Argiope,41,30,True
+mjolnir_08,Argos,25,20,True
+mjolnir_08,Mantis,26,60,True
+mjolnir_09,Wolf,25,30,False
+mjolnir_09,Poporing,14,20,False
+mjolnir_09,Red Mushroom,1,11,False
+mjolnir_09,Coco,17,10,False
+mjolnir_09,Horn,18,70,False
+mjolnir_09,Stainer,16,20,False
+mjolnir_10,Poporing,14,20,False
+mjolnir_10,Green Plant,1,10,False
+mjolnir_10,Shining Plant,1,1,False
+mjolnir_10,Argos,25,60,True
+mjolnir_10,Flora,26,30,True
+mjolnir_10,Mantis,26,20,True
+mjolnir_10,Petite,44,10,True
+mjolnir_11,Mandragora,12,50,True
+mjolnir_11,Poporing,14,10,False
+mjolnir_11,Thief Bug Male,19,30,True
+mjolnir_11,Blue Plant,1,2,False
+mjolnir_11,Green Plant,1,11,False
+mjolnir_11,Argiope,41,10,True
+mjolnir_11,Flora,26,60,True
+mjolnir_12,Thief Bug Female,10,20,False
+mjolnir_12,Dustiness,21,50,False
+mjolnir_12,Stem Worm,40,20,True
+moc_fild01,Poring,1,10,False
+moc_fild01,Peco Peco Egg,3,20,False
+moc_fild01,Picky,3,10,False
+moc_fild01,Yellow Plant,1,10,False
+moc_fild01,Ant Egg,4,20,False
+moc_fild01,Desert Wolf Baby / Baby Desert Wolf,9,70,False
+moc_fild01,Drops,3,30,False
+moc_fild02,Peco Peco,19,70,False
+moc_fild02,Peco Peco Egg,3,40,False
+moc_fild02,Picky,3,10,False
+moc_fild02,Green Plant,1,7,False
+moc_fild02,Yellow Plant,1,7,False
+moc_fild02,Ant Egg,4,10,False
+moc_fild02,Drops,3,30,False
+moc_fild03,Willow,4,20,False
+moc_fild03,Poporing,14,20,False
+moc_fild03,Elder Willow,20,70,True
+moc_fild03,Green Plant,1,14,False
+moc_fild03,Vagabond Wolf,24,1,True
+moc_fild03,Eggyra,24,10,False
+moc_fild03,Greatest General,40,30,True
+moc_fild07,Peco Peco Egg,3,50,False
+moc_fild07,Picky,3,30,False
+moc_fild07,Picky,4,30,False
+moc_fild07,Yellow Plant,1,5,False
+moc_fild07,Drops,3,70,False
+moc_fild11,Golem,25,70,False
+moc_fild11,Muka,17,20,False
+moc_fild11,Shining Plant,1,1,False
+moc_fild11,Andre,17,10,False
+moc_fild11,Ant Egg,4,10,False
+moc_fild11,Deniro,19,10,False
+moc_fild11,Hode,26,10,False
+moc_fild11,Magnolia,26,20,False
+moc_fild11,Piere,18,10,False
+moc_fild12,Peco Peco Egg,3,35,False
+moc_fild12,Picky,3,50,False
+moc_fild12,Picky,4,50,False
+moc_fild12,Yellow Plant,1,10,False
+moc_fild12,Drops,3,35,False
+moc_fild13,Snake / Boa,15,30,False
+moc_fild13,Anacondaq,23,75,False
+moc_fild13,Poporing,14,20,False
+moc_fild13,Side Winder,43,5,True
+moc_fild13,Yellow Plant,1,15,False
+moc_fild13,Red Mushroom,1,13,False
+moc_fild13,Desert Wolf,27,30,True
+moc_fild13,Drops,3,10,False
+moc_fild16,Andre,17,10,False
+moc_fild16,Ant Egg,4,10,False
+moc_fild16,Deniro,19,20,False
+moc_fild16,Hode,26,30,False
+moc_fild16,Magnolia,26,25,False
+moc_fild16,Sandman,34,70,True
+moc_fild17,Scorpion,24,5,True
+moc_fild17,Steel Chonchon,17,30,False
+moc_fild17,Blue Plant,1,1,False
+moc_fild17,Yellow Plant,1,6,False
+moc_fild17,Ant Egg,4,10,False
+moc_fild17,Frilldora,30,25,True
+moc_fild17,Hode,26,100,False
+moc_fild17,Magnolia,26,15,False
+moc_fild17,Phreeoni [MVP],69,1,True
+moc_fild18,Chonchon,4,40,False
+moc_fild18,Hunter Fly,42,1,True
+moc_fild18,Steel Chonchon,17,70,False
+moc_fild18,Muka,17,80,False
+moc_fild18,Metaller,22,10,False
+moc_fild18,Yellow Plant,1,8,False
+moc_fild18,Dragon Fly,8,1,True
+moc_fild18,Ant Egg,4,5,False
+moc_fild20,Scorpion,24,70,True
+moc_fild20,Picky,3,50,False
+moc_fild20,Picky,4,50,False
+moc_fild20,Metaller,22,20,False
+moc_fild20,Andre,17,20,False
+moc_fild20,Ant Egg,4,10,False
+moc_fild20,Deniro,19,20,False
+moc_fild20,Drops,3,30,False
+moc_fild20,Piere,18,20,False
+moc_fild20,Incarnation of Morroc,97,1,True
+moc_fild20,Incarnation of Morroc,97,1,True
+moc_fild20,Incarnation of Morroc,96,1,True
+moc_fild20,Incarnation of Morroc,98,1,True
+morocc,Wild Rose,38,1,False
+moscovia,Wild Rose,38,1,False
+nameless_n,Ghoul,40,40,True
+nameless_n,Zombie Slaughter,77,12,True
+nameless_n,Ragged Zombie,75,12,True
+nameless_n,Hell Poodle,71,17,True
+nameless_n,Banshee,81,16,True
+nameless_n,Flame Skull,60,3,True
+nif_fild01,Gibbet,58,10,True
+nif_fild01,Dullahan,62,7,True
+nif_fild01,Disguise,55,20,True
+nif_fild01,Quve,40,30,True
+nif_fild01,Hylozoist / Heirozoist,51,10,True
+nif_fild02,Gibbet,58,10,True
+nif_fild02,Dullahan,62,5,True
+nif_fild02,Loli Ruri,71,19,True
+nif_fild02,Bloody Murderer,72,7,True
+nif_fild02,Lude,36,10,True
+nif_fild02,Hylozoist / Heirozoist,51,6,True
+niflheim,Lord of Death / Lord of the Dead [MVP],94,1,True
+niflheim,Gibbet,58,10,True
+niflheim,Dullahan,62,16,True
+niflheim,Loli Ruri,71,4,True
+niflheim,Disguise,55,16,True
+niflheim,Bloody Murderer,72,4,True
+niflheim,Quve,40,20,True
+niflheim,Lude,36,20,True
+niflheim,Hylozoist / Heirozoist,51,10,True
+odin_tem01,Blue Plant,1,5,False
+odin_tem01,Green Plant,1,5,False
+odin_tem01,Yellow Plant,1,5,False
+odin_tem01,Breeze,56,10,True
+odin_tem01,Plasma,56,10,True
+odin_tem01,Plasma,43,3,True
+odin_tem01,Plasma,47,3,True
+odin_tem01,Plasma,49,3,True
+odin_tem01,Plasma,44,3,True
+odin_tem01,Skogul,70,5,True
+odin_tem01,Frus,69,5,True
+odin_tem02,Blue Plant,1,10,False
+odin_tem02,Plasma,56,15,True
+odin_tem02,Skogul,70,30,True
+odin_tem02,Frus,69,30,True
+odin_tem02,Skeggiold,81,1,True
+odin_tem02,Skeggiold,83,1,True
+odin_tem02,Skogul,70,2,True
+odin_tem02,Frus,69,3,True
+odin_tem02,Valkyrie,99,1,True
+odin_tem03,Blue Plant,1,15,False
+odin_tem03,Shining Plant,1,15,False
+odin_tem03,Plasma,56,20,True
+odin_tem03,Valkyrie Randgris [MVP],99,1,True
+odin_tem03,Skogul,70,4,True
+odin_tem03,Frus,69,4,True
+odin_tem03,Skeggiold,81,16,True
+odin_tem03,Skeggiold,83,16,True
+odin_tem03,Skogul,70,5,True
+odin_tem03,Frus,69,5,True
+odin_tem03,Valkyrie,99,2,True
+pay_fild01,Poring,1,10,False
+pay_fild01,Willow,4,10,False
+pay_fild01,Spore,16,100,False
+pay_fild01,Poporing,14,10,False
+pay_fild01,Green Plant,1,5,False
+pay_fild01,Black Mushroom,1,15,False
+pay_fild02,Wolf,25,70,False
+pay_fild02,Spore,16,10,False
+pay_fild02,Snake / Boa,15,30,False
+pay_fild02,Poporing,14,20,False
+pay_fild02,Green Plant,1,4,False
+pay_fild02,Red Mushroom,1,4,False
+pay_fild03,Poring,1,30,False
+pay_fild03,Pupa,2,50,False
+pay_fild03,Willow,4,30,False
+pay_fild03,Lunatic,3,50,False
+pay_fild03,Green Plant,1,4,False
+pay_fild03,Red Mushroom,1,6,False
+pay_fild04,Poring,1,40,False
+pay_fild04,Poporing,14,40,False
+pay_fild04,Green Plant,1,5,False
+pay_fild04,Shining Plant,1,1,False
+pay_fild04,Mastering,2,1,True
+pay_fild04,Angeling,20,1,True
+pay_fild04,Drops,3,40,False
+pay_fild04,Ghostring,18,1,True
+pay_fild04,Marin,15,10,False
+pay_fild04,Deviling,31,1,True
+pay_fild05,Poporing,14,20,False
+pay_fild05,Poison Spore,19,65,True
+pay_fild05,Green Plant,1,8,False
+pay_fild05,Dragon Tail,61,5,True
+pay_fild06,Spore,16,20,False
+pay_fild06,Wormtail,14,90,False
+pay_fild06,Poporing,14,20,False
+pay_fild06,Thief Bug Female,10,40,False
+pay_fild06,Green Plant,1,10,False
+pay_fild06,Shining Plant,1,1,False
+pay_fild06,Red Mushroom,1,8,False
+pay_fild07,Willow,4,20,False
+pay_fild07,Poporing,14,20,False
+pay_fild07,Elder Willow,20,70,True
+pay_fild07,Bigfoot,25,30,False
+pay_fild07,Green Plant,1,8,False
+pay_fild07,Eggyra,24,40,False
+pay_fild08,Poring,1,30,False
+pay_fild08,Pupa,2,20,False
+pay_fild08,Willow,4,50,False
+pay_fild08,Spore,16,70,False
+pay_fild08,Green Plant,1,10,False
+pay_fild08,Shining Plant,1,1,False
+pay_fild09,Poporing,14,20,False
+pay_fild09,Smokie,18,80,False
+pay_fild09,Bigfoot,25,70,False
+pay_fild09,Green Plant,1,10,False
+pay_fild09,Shining Plant,1,1,False
+pay_fild10,Poison Spore,19,20,True
+pay_fild10,Blue Plant,1,3,False
+pay_fild10,Green Plant,1,15,False
+pay_fild10,Dokebi,33,70,False
+pay_fild10,Nine Tail,51,1,True
+pay_fild10,Greatest General,40,65,True
+pay_fild11,Red Mushroom,1,6,False
+pay_fild11,Eddga [MVP],65,1,True
+pay_fild11,Nine Tail,51,60,True
+pay_fild11,Greatest General,40,30,True
+pay_fild11,Dragon Tail,61,50,True
+payon,Wild Rose,38,1,False
+prontera,Wild Rose,38,1,False
+prt_fild00,Poring,1,40,False
+prt_fild00,Hornet,8,70,False
+prt_fild00,Fabre,2,20,False
+prt_fild00,Pupa,2,30,False
+prt_fild00,Creamy,16,10,False
+prt_fild00,Lunatic,3,30,False
+prt_fild00,Green Plant,1,5,False
+prt_fild00,Shining Plant,1,1,False
+prt_fild01,Poring,1,30,False
+prt_fild01,Fabre,2,20,False
+prt_fild01,Pupa,2,10,False
+prt_fild01,Thief Bug,6,30,False
+prt_fild01,Lunatic,3,80,False
+prt_fild01,Blue Plant,1,1,False
+prt_fild01,Green Plant,1,3,False
+prt_fild02,Poring,1,30,False
+prt_fild02,Fabre,2,50,False
+prt_fild02,Pupa,2,20,False
+prt_fild02,Mandragora,12,70,True
+prt_fild02,Lunatic,3,10,False
+prt_fild02,Shining Plant,1,3,False
+prt_fild02,Eclipse,6,1,True
+prt_fild03,Poporing,14,10,False
+prt_fild03,Smokie,18,40,False
+prt_fild03,Yoyo,21,80,False
+prt_fild03,Blue Plant,1,2,False
+prt_fild03,Green Plant,1,5,False
+prt_fild03,Choco,43,1,True
+prt_fild04,Poring,1,30,False
+prt_fild04,Pupa,2,10,False
+prt_fild04,Creamy,16,40,False
+prt_fild04,Rocker,9,70,False
+prt_fild04,Green Plant,1,5,False
+prt_fild04,Vocal,18,1,True
+prt_fild05,Poring,1,70,False
+prt_fild05,Pupa,2,30,False
+prt_fild05,Thief Bug Egg,4,20,False
+prt_fild05,Thief Bug,6,10,False
+prt_fild05,Lunatic,3,30,False
+prt_fild05,Blue Plant,1,1,False
+prt_fild05,Green Plant,1,6,False
+prt_fild06,Poring,1,60,False
+prt_fild06,Pupa,2,20,False
+prt_fild06,Thief Bug Egg,4,20,False
+prt_fild06,Thief Bug,6,10,False
+prt_fild06,Lunatic,3,60,False
+prt_fild06,Green Plant,1,15,False
+prt_fild07,Poporing,14,30,False
+prt_fild07,Rocker,9,80,False
+prt_fild07,Black Mushroom,1,3,False
+prt_fild07,Vocal,18,1,True
+prt_fild08,Poring,1,70,False
+prt_fild08,Pupa,2,20,False
+prt_fild08,Lunatic,3,40,False
+prt_fild08,Drops,3,10,False
+prt_fild09,Condor,5,10,False
+prt_fild09,Peco Peco Egg,3,20,False
+prt_fild09,Picky,3,20,False
+prt_fild09,Yellow Plant,1,3,False
+prt_fild09,Desert Wolf Baby / Baby Desert Wolf,9,20,False
+prt_fild09,Savage Babe,7,70,False
+prt_fild10,Poporing,14,20,False
+prt_fild10,Thief Bug,6,10,False
+prt_fild10,Shining Plant,1,1,False
+prt_fild10,Red Mushroom,1,15,False
+prt_fild10,Savage,26,70,False
+prt_fild10,Savage Babe,7,40,False
+prt_fild11,Red Mushroom,1,10,False
+prt_fild11,Goblin,25,10,True
+prt_fild11,Goblin,24,20,True
+prt_fild11,Goblin,24,20,True
+prt_fild11,Goblin,23,30,True
+prt_fild11,Goblin,22,30,True
+prt_fild11,Goblin Archer,28,10,True
+prt_fild11,Steam Goblin / Goblin Steamrider,35,30,False
+prt_fild11,Panzer Goblin,59,1,True
+ra_fild01,Gryphon,72,3,True
+ra_fild01,Geographer,56,30,True
+ra_fild01,Muscipular,57,60,True
+ra_fild01,Drosera,46,20,True
+ra_fild01,Galion,44,5,False
+ra_fild02,Muscipular,57,60,True
+ra_fild02,Drosera,46,20,True
+ra_fild02,Galion,44,15,False
+ra_fild02,Atroce [MVP],82,1,True
+ra_fild03,Drosera,46,10,True
+ra_fild03,Roween,31,10,False
+ra_fild03,Galion,44,35,False
+ra_fild03,Stapo,23,10,False
+ra_fild03,Atroce [MVP],82,1,True
+ra_fild04,Wild Rose,38,10,False
+ra_fild04,Roween,31,60,False
+ra_fild04,Galion,44,3,False
+ra_fild04,Stapo,23,20,False
+ra_fild04,Atroce [MVP],82,1,True
+ra_fild05,Geographer,56,10,True
+ra_fild05,Hill Wind,45,70,True
+ra_fild05,Drosera,46,20,True
+ra_fild06,Anopheles,23,20,True
+ra_fild06,Hill Wind,45,50,True
+ra_fild06,Drosera,46,10,True
+ra_fild07,Roween,31,50,False
+ra_fild07,Galion,44,20,False
+ra_fild07,Stapo,23,10,False
+ra_fild08,Drops,3,40,False
+ra_fild08,Drosera,46,20,True
+ra_fild08,Stapo,23,100,False
+ra_fild09,Harpy,70,1,True
+ra_fild09,Metaling,26,20,False
+ra_fild09,Hill Wind,45,10,True
+ra_fild09,Drosera,46,60,True
+ra_fild10,Roween,31,10,False
+ra_fild10,Galion,44,20,False
+ra_fild10,Stapo,23,30,False
+ra_fild11,Red Plant,1,5,False
+ra_fild11,Yellow Plant,1,15,False
+ra_fild11,Drops,3,100,False
+ra_fild11,Roween,31,2,False
+ra_fild11,Stapo,23,40,False
+ra_fild12,Poporing,14,5,False
+ra_fild12,Red Plant,1,5,False
+ra_fild12,Yellow Plant,1,15,False
+ra_fild12,Drops,3,100,False
+ra_fild12,Stapo,23,40,False
+ra_fild13,Drops,3,40,False
+ra_fild13,Roween,31,5,False
+ra_fild13,Stapo,23,60,False
+spl_fild01,Cornus,108,25,False
+spl_fild01,Naga,111,35,True
+spl_fild01,Pinguicula,80,50,True
+spl_fild02,Luciola Vespa,104,15,True
+spl_fild02,Pinguicula,80,95,True
+spl_fild03,Tendrillion / Tendrilion,113,1,True
+spl_fild03,Cornus,108,25,False
+spl_fild03,Naga,111,20,True
+spl_fild03,Luciola Vespa,104,35,True
+tur_dun01,Thara Frog,22,10,False
+tur_dun01,Pest,40,15,True
+tur_dun01,Permeter,63,10,False
+tur_dun01,Dragon Tail,61,25,True
+tur_dun01,Spring Rabbit,58,25,False
+um_dun01,Green Plant,1,5,False
+um_dun01,Yellow Plant,1,5,False
+um_dun01,Stone Shooter,42,70,True
+um_dun01,Wootan Shooter,39,10,True
+um_dun01,Wootan Fighter,41,10,True
+um_dun02,Red Plant,1,5,False
+um_dun02,Yellow Plant,1,5,False
+um_dun02,Shining Plant,1,6,False
+um_dun02,Driller,52,5,True
+um_dun02,Dryad,50,25,True
+um_dun02,Wooden Golem,51,8,True
+um_dun02,Wootan Shooter,39,10,True
+um_fild01,Green Plant,1,10,False
+um_fild01,Yellow Plant,1,10,False
+um_fild01,Shining Plant,1,6,False
+um_fild01,Dustiness,21,10,False
+um_fild01,Stem Worm,40,15,True
+um_fild01,Harpy,70,2,True
+um_fild01,Dryad,50,65,True
+um_fild01,Wootan Fighter,41,10,True
+um_fild02,Red Plant,1,5,False
+um_fild02,Yellow Plant,1,5,False
+um_fild02,Coco,17,10,False
+um_fild02,Dustiness,21,20,False
+um_fild02,Flora,26,3,True
+um_fild02,Choco,43,5,True
+um_fild02,Beetle King,34,30,False
+um_fild02,Stone Shooter,42,12,True
+um_fild02,Wootan Fighter,41,24,True
+um_fild03,Blue Plant,1,5,False
+um_fild03,Green Plant,1,10,False
+um_fild03,Shining Plant,1,2,False
+um_fild03,Gryphon,72,1,True
+um_fild03,Alligator,42,10,False
+um_fild03,Dragon Tail,61,20,True
+um_fild03,Parasite,49,95,True
+um_fild04,Red Plant,1,5,False
+um_fild04,Yellow Plant,1,5,False
+um_fild04,Horn,18,4,False
+um_fild04,Choco,43,2,True
+um_fild04,Beetle King,34,20,False
+um_fild04,Wootan Shooter,39,7,True
+umbala,Wild Rose,38,1,False
+ve_fild01,Side Winder,43,10,True
+ve_fild01,Muka,17,70,False
+ve_fild01,Red Plant,1,10,False
+ve_fild01,Blue Plant,1,4,False
+ve_fild01,Yellow Plant,1,10,False
+ve_fild01,Shining Plant,1,1,False
+ve_fild01,Drops,3,10,False
+ve_fild01,Stapo,23,20,False
+ve_fild01,Atroce [MVP],82,1,True
+ve_fild02,Side Winder,43,1,True
+ve_fild02,Red Plant,1,10,False
+ve_fild02,Yellow Plant,1,10,False
+ve_fild02,Savage,26,60,False
+ve_fild02,Roween,31,18,False
+ve_fild02,Stapo,23,20,False
+ve_fild02,Atroce [MVP],82,1,True
+ve_fild03,Red Plant,1,10,False
+ve_fild03,Yellow Plant,1,10,False
+ve_fild03,Sandman,34,45,True
+ve_fild03,Sleeper,67,5,True
+ve_fild03,Stapo,23,10,False
+ve_fild03,Magmaring,40,10,False
+ve_fild04,Blue Plant,1,3,False
+ve_fild04,Yellow Plant,1,10,False
+ve_fild04,Desert Wolf,27,60,True
+ve_fild04,Muscipular,57,10,True
+ve_fild04,Roween,31,20,False
+ve_fild04,Stapo,23,20,False
+ve_fild05,White Plant,1,5,False
+ve_fild05,Shining Plant,1,1,False
+ve_fild05,Sandman,34,2,True
+ve_fild05,Sleeper,67,10,True
+ve_fild05,Drosera,46,10,True
+ve_fild05,Roween,31,15,False
+ve_fild05,Galion,44,5,False
+ve_fild07,Side Winder,43,70,True
+ve_fild07,Shellfish,15,10,False
+ve_fild07,White Plant,1,10,False
+ve_fild07,Raggler,21,35,True
+ve_fild07,Aster,18,10,False
+ve_fild07,Stapo,23,30,False
+xmas_fild01,Marin,15,35,False
+xmas_fild01,Sasquatch,30,20,True
+xmas_fild01,Garm / Hatii [MVP],73,1,True
+xmas_fild01,Garm Baby / Baby Hatii,61,1,True
+yggdrasil01,Red Plant,1,15,False
+yggdrasil01,Blue Plant,1,5,False
+yggdrasil01,Green Plant,1,26,False
+yggdrasil01,Yellow Plant,1,5,False
+yggdrasil01,White Plant,1,5,False
+yggdrasil01,Shining Plant,1,10,False
+yuno,Wild Rose,38,1,False
+yuno_fild01,Poring,1,20,False
+yuno_fild01,Poporing,14,20,False
+yuno_fild01,Red Plant,1,15,False
+yuno_fild01,Blue Plant,1,2,False
+yuno_fild01,Green Plant,1,20,False
+yuno_fild01,Yellow Plant,1,23,False
+yuno_fild01,Shining Plant,1,3,False
+yuno_fild01,Dustiness,21,50,False
+yuno_fild01,Grand Peco,58,3,False
+yuno_fild02,Hunter Fly,42,10,True
+yuno_fild02,Red Plant,1,10,False
+yuno_fild02,Green Plant,1,10,False
+yuno_fild02,Yellow Plant,1,10,False
+yuno_fild02,Dustiness,21,20,False
+yuno_fild02,Horn,18,40,False
+yuno_fild02,Wild Rose,38,5,False
+yuno_fild02,Beetle King,34,40,False
+yuno_fild02,Novus,42,2,True
+yuno_fild02,Novus,43,2,True
+yuno_fild03,Poring,1,30,False
+yuno_fild03,Poporing,14,50,False
+yuno_fild03,Side Winder,43,1,True
+yuno_fild03,Red Plant,1,15,False
+yuno_fild03,Blue Plant,1,4,False
+yuno_fild03,Green Plant,1,15,False
+yuno_fild03,Yellow Plant,1,15,False
+yuno_fild03,Shining Plant,1,1,False
+yuno_fild03,Angeling,20,1,True
+yuno_fild03,Drops,3,40,False
+yuno_fild03,Marin,15,20,False
+yuno_fild03,Geographer,56,15,True
+yuno_fild03,Deviling,31,1,True
+yuno_fild04,Poring,1,60,False
+yuno_fild04,Pupa,2,10,False
+yuno_fild04,Condor,5,20,False
+yuno_fild04,Red Plant,1,10,False
+yuno_fild04,Green Plant,1,10,False
+yuno_fild04,Yellow Plant,1,10,False
+yuno_fild04,Mastering,2,1,True
+yuno_fild04,Drops,3,40,False
+yuno_fild05,Red Plant,1,10,False
+yuno_fild05,Blue Plant,1,4,False
+yuno_fild05,Green Plant,1,10,False
+yuno_fild05,Yellow Plant,1,10,False
+yuno_fild05,Dustiness,21,30,False
+yuno_fild05,Horn,18,30,False
+yuno_fild05,Rafflesia,17,70,True
+yuno_fild05,Archangeling / Arc Angeling,60,1,True
+yuno_fild05,Beetle King,34,10,False
+yuno_fild06,Red Plant,1,10,False
+yuno_fild06,Green Plant,1,10,False
+yuno_fild06,Yellow Plant,1,10,False
+yuno_fild06,Goat,69,40,False
+yuno_fild06,Demon Pungus,56,20,True
+yuno_fild06,Sleeper,67,70,True
+yuno_fild07,Red Plant,1,10,False
+yuno_fild07,Green Plant,1,10,False
+yuno_fild07,Yellow Plant,1,10,False
+yuno_fild07,Geographer,56,20,True
+yuno_fild07,Goat,69,10,False
+yuno_fild07,Harpy,70,40,True
+yuno_fild07,Driller,52,10,True
+yuno_fild08,Red Plant,1,10,False
+yuno_fild08,Green Plant,1,10,False
+yuno_fild08,Yellow Plant,1,10,False
+yuno_fild08,Dustiness,21,20,False
+yuno_fild08,Wild Rose,38,5,False
+yuno_fild08,Geographer,56,30,True
+yuno_fild08,Grand Peco,58,80,False
+yuno_fild09,Hunter Fly,42,10,True
+yuno_fild09,Red Plant,1,10,False
+yuno_fild09,Green Plant,1,10,False
+yuno_fild09,Yellow Plant,1,10,False
+yuno_fild09,Dustiness,21,20,False
+yuno_fild09,Horn,18,40,False
+yuno_fild09,Stainer,16,20,False
+yuno_fild09,Wild Rose,38,5,False
+yuno_fild09,Beetle King,34,40,False
+yuno_fild10,Hunter Fly,42,10,True
+yuno_fild10,Dustiness,21,20,False
+yuno_fild10,Stainer,16,20,False
+yuno_fild10,Geographer,56,20,True
+yuno_fild10,Beetle King,34,40,False
+yuno_fild11,Red Plant,1,10,False
+yuno_fild11,Green Plant,1,10,False
+yuno_fild11,Yellow Plant,1,10,False
+yuno_fild11,Geographer,56,32,True
+yuno_fild11,Demon Pungus,56,10,True
+yuno_fild11,Sleeper,67,43,True
+yuno_fild12,Poporing,14,15,False
+yuno_fild12,Dustiness,21,30,False
+yuno_fild12,Geographer,56,5,True
+yuno_fild12,Demon Pungus,56,20,True
+abyss_01,Mimic,51,10,True
+abyss_01,Penomena,57,5,True
+abyss_01,Ancient Mimic,60,10,True
+abyss_01,Ferus,70,30,True
+abyss_01,Novus,42,9,True
+abyss_01,Ferus,69,55,True
+abyss_01,Novus,43,9,True
+abyss_01,Dragon Egg,43,3,False
+abyss_02,Mimic,51,10,True
+abyss_02,Ancient Mimic,60,10,True
+abyss_02,Acidus,80,10,True
+abyss_02,Ferus,70,50,True
+abyss_02,Novus,42,5,True
+abyss_02,Acidus,76,60,True
+abyss_02,Novus,43,5,True
+abyss_02,Dragon Egg,43,10,False
+abyss_03,Mimic,51,10,True
+abyss_03,Ancient Mimic,60,10,True
+abyss_03,Acidus,80,60,True
+abyss_03,Ferus,70,10,True
+abyss_03,Acidus,76,10,True
+abyss_03,Ferus,69,10,True
+abyss_03,Detale / Detardeurus [MVP],90,1,True
+abyss_03,Hydro / Hydrolancer,89,3,True
+abyss_03,Dragon Egg,43,10,False
+ama_dun01,Shinobi,69,2,True
+ama_dun01,Antique Firelock / Firelock Soldier,47,45,True
+ama_dun01,Miyabi Ningyo / Miyabi Doll,33,65,False
+ama_dun02,Horong,34,10,True
+ama_dun02,The Paper,56,1,True
+ama_dun02,Shinobi,69,2,True
+ama_dun02,Poison Toad,46,35,False
+ama_dun02,Antique Firelock / Firelock Soldier,47,20,True
+ama_dun02,Miyabi Ningyo / Miyabi Doll,33,5,False
+ama_dun03,Mimic,51,5,True
+ama_dun03,The Paper,56,20,True
+ama_dun03,Shinobi,69,35,True
+ama_dun03,Antique Firelock / Firelock Soldier,47,25,True
+ama_dun03,Miyabi Ningyo / Miyabi Doll,33,1,False
+ama_dun03,Tengu,65,40,True
+ama_dun03,Incantation Samurai / Samurai Specter [MVP],71,1,True
+anthell01,Familiar,8,20,True
+anthell01,Andre,17,15,False
+anthell01,Ant Egg,4,87,False
+anthell01,Deniro,19,40,False
+anthell01,Giearth,29,1,False
+anthell01,Piere,18,50,False
+anthell01,Vitata,20,10,False
+anthell01,Maya Purple,81,1,True
+anthell02,Familiar,8,20,True
+anthell02,Andre,17,50,False
+anthell02,Ant Egg,4,15,False
+anthell02,Deniro,19,15,False
+anthell02,Giearth,29,3,False
+anthell02,Maya [MVP],81,1,True
+anthell02,Piere,18,15,False
+anthell02,Vitata,20,30,False
+ayo_dun01,Ghoul,40,30,True
+ayo_dun01,Whisper,34,10,True
+ayo_dun01,Leaf Cat,38,65,False
+ayo_dun01,Kraben,50,5,True
+ayo_dun02,Whisper,34,20,True
+ayo_dun02,Tamruan,52,100,True
+ayo_dun02,Kraben,50,20,True
+ayo_dun02,Lady Tanee [MVP],89,1,True
+ma_dun01,Manananggal (Re-Stats),107,40,True
+ma_dun01,Tiyanak (Re-Stats),105,40,True
+ma_dun01,Wakwak (Re-Stats),111,30,True
+beach_dun,Medusa,79,60,True
+beach_dun,Neraid / Nereid,40,20,True
+beach_dun,Pest,40,20,True
+beach_dun,Merman,53,3,True
+beach_dun,Tao Gunka [MVP],70,1,True
+beach_dun2,Hydra,14,10,True
+beach_dun2,Neraid / Nereid,40,10,True
+beach_dun2,Megalith,45,15,True
+beach_dun2,Stalactic Golem,60,65,False
+beach_dun2,Tri Joint,32,20,True
+beach_dun3,Thara Frog,22,50,False
+beach_dun3,Megalodon,24,30,False
+beach_dun3,Hydra,14,30,True
+beach_dun3,Neraid / Nereid,40,1,True
+ecl_tdun01,Cenere (Re-Stats),146,5,True
+ecl_tdun01,Antique Book (Re-Stats),148,5,True
+ecl_tdun01,Blue Lichtern / Lichtern (Re-Stats),149,5,True
+ecl_tdun02,Cenere (Re-Stats),146,10,True
+ecl_tdun02,Antique Book (Re-Stats),148,10,True
+ecl_tdun02,Blue Lichtern / Lichtern (Re-Stats),149,15,True
+ecl_tdun02,Yellow Lichtern / Lichtern (Re-Stats),147,5,True
+ecl_tdun03,Cenere (Re-Stats),146,15,True
+ecl_tdun03,Antique Book (Re-Stats),148,15,True
+ecl_tdun03,Blue Lichtern / Lichtern (Re-Stats),149,5,True
+ecl_tdun03,Yellow Lichtern / Lichtern (Re-Stats),147,15,True
+ecl_tdun03,Red Lichtern / Lichtern (Re-Stats),149,10,True
+ecl_tdun03,Green Lichtern / Lichtern (Re-Stats),151,15,True
+ecl_tdun03,Faithful Manager (Re-Stats),155,5,True
+lhz_dun01,Metaling,26,50,False
+lhz_dun01,Anopheles,23,70,True
+lhz_dun01,Ygnizem / Egnigem Cenia,58,1,True
+lhz_dun01,Whikebain / Wickebine Tres,62,6,True
+lhz_dun01,Armaia / Armeyer Dinze,66,7,True
+lhz_dun01,Erend / Errende Ebecee,59,12,True
+lhz_dun01,Kavac / Kavach Icarus,60,7,True
+lhz_dun01,Rawrel / Laurell Weinder,61,1,True
+lhz_dun01,Gemini-S58,72,1,True
+lhz_dun01,Removal / Remover,55,100,True
+lhz_dun02,Eremes / Eremes Guile,87,1,True
+lhz_dun02,Ygnizem / Egnigem Cenia,58,26,True
+lhz_dun02,Whikebain / Wickebine Tres,62,10,True
+lhz_dun02,Armaia / Armeyer Dinze,66,10,True
+lhz_dun02,Erend / Errende Ebecee,59,10,True
+lhz_dun02,Kavac / Kavach Icarus,60,10,True
+lhz_dun02,Rawrel / Laurell Weinder,61,10,True
+lhz_dun02,Ygnizem / Egnigem Cenia [MVP],79,1,True
+lhz_dun02,Gemini-S58,72,10,True
+lhz_dun02,Removal / Remover,55,20,True
+lhz_dun03,Seyren / Seyren Windsor,91,14,True
+lhz_dun03,Eremes / Eremes Guile,87,21,True
+lhz_dun03,Harword / Howard Alt-Eisen,83,14,True
+lhz_dun03,Magaleta / Margaretha Sorin,90,24,True
+lhz_dun03,Shecil / Cecil Damon,82,52,True
+lhz_dun03,Katrinn / Kathryne Keyron,92,16,True
+lhz_dun03,Lord Knight Seyren,99,1,True
+lhz_dun03,Assassin Cross Eremes,99,1,True
+lhz_dun03,Whitesmith Harword / Whitesmith Howard,99,1,True
+lhz_dun03,High Priest Magaleta / High Priest Margaretha,99,1,True
+lhz_dun03,Sniper Shecil / Sniper Cecil,99,1,True
+lhz_dun03,High Wizard Katrinn / High Wizard Kathryne,99,1,True
+lhz_dun03,Lord Knight Seyren [MVP],99,1,True
+lhz_dun03,Assassin Cross Eremes [MVP],99,1,True
+lhz_dun03,Whitesmith Harword / Whitesmith Howard [MVP],99,1,True
+lhz_dun03,High Priest Magaleta / High Priest Margaretha [MVP],99,1,True
+lhz_dun03,Sniper Shecil / Sniper Cecil [MVP],99,1,True
+lhz_dun03,High Wizard Katrinn / High Wizard Kathryne [MVP],99,1,True
+lhz_dun04,Randel (Re-Stats),141,42,True
+lhz_dun04,Flamel (Re-Stats),141,42,True
+lhz_dun04,Celia (Re-Stats),141,81,True
+lhz_dun04,Chen (Re-Stats),141,42,True
+lhz_dun04,Gertie (Re-Stats),141,57,True
+lhz_dun04,Alphoccio (Re-Stats),142,42,True
+lhz_dun04,Trentini (Re-Stats),142,42,True
+lhz_dun04,Paladin Randel (Re-Stats) [MVP],160,1,True
+lhz_dun04,Creator Flamel (Re-Stats) [MVP],160,1,True
+lhz_dun04,Professor Celia (Re-Stats) [MVP],160,1,True
+lhz_dun04,Champion Chen (Re-Stats) [MVP],160,1,True
+lhz_dun04,Stalker Gertie (Re-Stats) [MVP],160,1,True
+lhz_dun04,Clown Alphoccio (Re-Stats) [MVP],160,1,True
+lhz_dun04,Gypsy Trentini (Re-Stats) [MVP],160,1,True
+que_lhz,Champion Chen / Dark Martial Arts Master (Re-Stats),130,8,True
+bra_dun01,Hydra,14,10,True
+bra_dun01,Black Mushroom,1,10,False
+bra_dun01,Marina,21,10,False
+bra_dun01,Plankton,10,10,False
+bra_dun01,Iara,79,60,False
+bra_dun01,Piranha,75,100,True
+bra_dun02,Hydra,14,20,True
+bra_dun02,Black Mushroom,1,10,False
+bra_dun02,Marina,21,10,False
+bra_dun02,Plankton,10,20,False
+bra_dun02,Boitata [MVP],93,1,True
+bra_dun02,Iara,79,120,False
+bra_dun02,Piranha,75,80,True
+iz_dun00,Vadon,19,15,False
+iz_dun00,Hydra,14,15,True
+iz_dun00,Kukre,11,15,False
+iz_dun00,Black Mushroom,1,5,False
+iz_dun00,Marina,21,45,False
+iz_dun00,Plankton,10,65,False
+iz_dun01,Vadon,19,60,False
+iz_dun01,Cornutus,23,15,False
+iz_dun01,Hydra,14,30,True
+iz_dun01,Kukre,11,50,False
+iz_dun01,Black Mushroom,1,10,False
+iz_dun01,Marina,21,15,False
+iz_dun01,Plankton,10,10,False
+iz_dun02,Obeaune,31,40,True
+iz_dun02,Cornutus,23,60,False
+iz_dun02,Hydra,14,40,True
+iz_dun02,Black Mushroom,1,15,False
+iz_dun02,Marse,31,40,False
+iz_dun02,Merman,53,1,True
+iz_dun03,Marc,36,40,True
+iz_dun03,Hydra,14,10,True
+iz_dun03,Swordfish,30,40,True
+iz_dun03,Marine Sphere,28,20,False
+iz_dun03,Phen,26,45,False
+iz_dun03,Merman,53,3,True
+iz_dun04,Strouf,48,50,True
+iz_dun04,Hydra,14,1,True
+iz_dun04,Swordfish,30,10,True
+iz_dun04,Deviace,47,3,False
+iz_dun04,Marine Sphere,28,10,False
+iz_dun04,Merman,53,40,True
+iz_dun05,King Kray / King Dramoh (Re-Stats),117,25,True
+iz_dun05,Sropho (Re-Stats),113,50,True
+iz_dun05,Kraken (Re-Stats) [MVP],124,1,True
+iz_dun05,Pot Dofle (Re-Stats),115,30,False
+iz_dun05,Sedora (Re-Stats),110,60,True
+c_tower1,Bathory,44,1,True
+c_tower1,Rideword,59,70,True
+c_tower1,Punk,43,70,True
+c_tower1,Clock Tower Manager,63,1,False
+c_tower2,Mimic,51,3,True
+c_tower2,Rideword,59,2,True
+c_tower2,Punk,43,40,True
+c_tower2,Clock,60,40,False
+c_tower2,Clock Tower Manager,63,1,False
+c_tower2,Elder,64,2,True
+c_tower3,Mimic,51,7,True
+c_tower3,Alarm,58,80,True
+c_tower3,Rideword,59,5,True
+c_tower3,Clock Tower Manager,63,3,False
+c_tower4,Whisper,34,5,True
+c_tower4,Mimic,51,10,True
+c_tower4,Alarm,58,30,True
+c_tower4,Rideword,59,2,True
+c_tower4,Executioner,65,1,True
+c_tower4,Clock,60,35,False
+c_tower4,Clock Tower Manager,63,1,False
+c_tower4,Owl Duke,75,30,True
+c_tower4,Elder,64,1,True
+alde_dun01,Drainliar,24,40,True
+alde_dun01,Arclouse / Arclouze,59,50,True
+alde_dun02,Orc Archer,49,20,True
+alde_dun02,Arclouse / Arclouze,59,20,True
+alde_dun02,Brilight,46,20,True
+alde_dun02,High Orc,52,50,True
+alde_dun03,Drainliar,24,35,True
+alde_dun03,Cramp,56,28,True
+alde_dun03,Penomena,57,40,True
+alde_dun04,Bathory,44,50,True
+alde_dun04,Joker,57,10,True
+alde_dun04,Whisper,34,10,True
+alde_dun04,Mysteltainn,76,1,True
+alde_dun04,Tirfing / Ogretooth,71,1,True
+alde_dun04,Executioner,65,1,True
+mjo_dun01,Familiar,8,30,True
+mjo_dun01,Martin,18,20,False
+mjo_dun01,Tarou,11,60,False
+mjo_dun02,Drainliar,24,20,True
+mjo_dun02,Giearth,29,35,False
+mjo_dun02,Martin,18,60,False
+mjo_dun02,Skeleton Worker,30,20,True
+mjo_dun03,Giearth,29,5,False
+mjo_dun03,Martin,18,5,False
+mjo_dun03,Myst,38,35,True
+mjo_dun03,Skeleton Worker,30,70,True
+mjo_dun03,Cramp,56,2,True
+dew_dun01,Ancient Worm,67,25,True
+dew_dun01,Gullinbursti,62,10,True
+dew_dun01,Comodo (Re-Stats),81,70,True
+dew_dun01,Leak (Re-Stats) [MVP],94,1,True
+dew_dun02,Am Mut,61,20,True
+dew_dun02,Gajomart,63,30,True
+dew_dun02,Banaspaty (Re-Stats),85,50,True
+dew_dun02,Butoijo (Re-Stats),88,30,True
+ein_dun01,Pitman,43,70,False
+ein_dun01,Waste Stove / Old Stove,68,1,True
+ein_dun01,Ungoliant,69,1,True
+ein_dun01,Porcellio,28,30,False
+ein_dun01,Noxious,35,30,True
+ein_dun01,Venomous,42,10,True
+ein_dun02,Mineral,56,15,False
+ein_dun02,Obsidian,50,10,True
+ein_dun02,Waste Stove / Old Stove,68,10,True
+ein_dun02,Teddy Bear,71,10,True
+ein_dun02,RSX 0806 / RSX-0806 [MVP],86,1,True
+gef_dun00,Poporing,14,15,False
+gef_dun00,Hunter Fly,42,30,True
+gef_dun00,Poison Spore,19,25,True
+gef_dun00,Red Plant,1,2,False
+gef_dun00,Green Plant,1,1,False
+gef_dun00,Yellow Plant,1,1,False
+gef_dun00,Shining Plant,1,1,False
+gef_dun00,Black Mushroom,1,6,False
+gef_dun01,Zombie,15,25,True
+gef_dun01,Ghoul,40,40,True
+gef_dun01,Nightmare,49,30,True
+gef_dun01,Blue Plant,1,1,False
+gef_dun01,White Plant,1,10,False
+gef_dun01,Black Mushroom,1,5,False
+gef_dun01,Drainliar,24,20,True
+gef_dun01,Jakk,38,40,True
+gef_dun01,Tirfing / Ogretooth,71,1,True
+gef_dun01,Dracula [MVP],85,1,True
+gef_dun02,Hunter Fly,42,10,True
+gef_dun02,Ghoul,40,10,True
+gef_dun02,Doppelganger [MVP],72,1,True
+gef_dun02,Nightmare,49,40,True
+gef_dun02,White Plant,1,12,False
+gef_dun02,Shining Plant,1,2,False
+gef_dun02,Deviruchi,46,35,True
+gef_dun02,Marionette,41,20,True
+gef_dun02,Whisper,34,20,True
+gef_dun03,White Plant,1,10,False
+gef_dun03,Shining Plant,1,3,False
+gef_dun03,Wraith,53,8,True
+gef_dun03,Wind Ghost,51,3,True
+gef_dun03,Wraith Dead,74,2,True
+gef_dun03,Hellion Revenant,88,1,True
+gefenia01,Mysteltainn,76,1,True
+gefenia01,Tirfing / Ogretooth,71,1,True
+gefenia01,Executioner,65,1,True
+gefenia01,Knight of Abyss / Abysmal Knight,79,10,True
+gefenia01,Bloody Knight,82,1,True
+gefenia01,Mini Demon,68,20,True
+gefenia01,Succubus,85,10,True
+gefenia01,Fake Angel / False Angel,65,60,True
+gefenia01,Incubus,75,10,True
+gefenia01,Violy,75,30,True
+gefenia02,Mysteltainn,76,1,True
+gefenia02,Tirfing / Ogretooth,71,1,True
+gefenia02,Executioner,65,1,True
+gefenia02,Knight of Abyss / Abysmal Knight,79,10,True
+gefenia02,Bloody Knight,82,1,True
+gefenia02,Mini Demon,68,30,True
+gefenia02,Succubus,85,20,True
+gefenia02,Fake Angel / False Angel,65,30,True
+gefenia02,Incubus,75,10,True
+gefenia02,Violy,75,40,True
+gefenia03,Mysteltainn,76,1,True
+gefenia03,Tirfing / Ogretooth,71,1,True
+gefenia03,Executioner,65,1,True
+gefenia03,Knight of Abyss / Abysmal Knight,79,10,True
+gefenia03,Bloody Knight,82,1,True
+gefenia03,Mini Demon,68,30,True
+gefenia03,Succubus,85,10,True
+gefenia03,Fake Angel / False Angel,65,40,True
+gefenia03,Incubus,75,20,True
+gefenia03,Violy,75,40,True
+gefenia04,Mysteltainn,76,1,True
+gefenia04,Tirfing / Ogretooth,71,1,True
+gefenia04,Executioner,65,1,True
+gefenia04,Knight of Abyss / Abysmal Knight,79,10,True
+gefenia04,Bloody Knight,82,1,True
+gefenia04,Mini Demon,68,20,True
+gefenia04,Succubus,85,10,True
+gefenia04,Fake Angel / False Angel,65,30,True
+gefenia04,Incubus,75,10,True
+gefenia04,Violy,75,30,True
+glast_01,Blue Plant,1,2,False
+glast_01,Green Plant,1,8,False
+glast_01,Shining Plant,1,1,False
+glast_01,Knight of Abyss / Abysmal Knight,79,2,True
+glast_01,Gargoyle,48,10,True
+gl_church,Ghoul,40,50,True
+gl_church,Evil Druid,58,60,True
+gl_church,Mimic,51,5,True
+gl_church,Wraith,53,5,True
+gl_church,Dark Illusion,77,1,True
+gl_chyard,Zombie,15,20,True
+gl_chyard,Hunter Fly,42,3,True
+gl_chyard,Ghoul,40,35,True
+gl_chyard,Evil Druid,58,10,True
+gl_chyard,Mimic,51,3,True
+gl_chyard,Wraith,53,45,True
+gl_chyard,Dark Lord [MVP],80,1,True
+gl_cas01,Whisper,34,10,True
+gl_cas01,Rideword,59,15,True
+gl_cas01,Tirfing / Ogretooth,71,1,True
+gl_cas01,Dark Frame,59,20,True
+gl_cas01,Carat,51,50,True
+gl_cas01,Alice,62,1,False
+gl_cas01,Sage Worm,43,10,False
+gl_cas01,Owl Baron,75,6,True
+gl_cas01,Owl Duke,75,20,True
+gl_cas02,Evil Druid,58,4,True
+gl_cas02,Khalitzburg,63,6,True
+gl_cas02,Raydric,52,30,True
+gl_cas02,Whisper,34,2,False
+gl_cas02,Mimic,51,2,True
+gl_cas02,Rideword,59,10,True
+gl_cas02,Mysteltainn,76,1,True
+gl_cas02,Tirfing / Ogretooth,71,1,True
+gl_cas02,Wander Man / Wanderer,74,1,True
+gl_cas02,Knight of Abyss / Abysmal Knight,79,7,True
+gl_cas02,Alice,62,1,False
+gl_cas02,Raydric Archer,52,19,True
+gl_cas02,Chimera,70,2,True
+gl_prison,Hunter Fly,42,10,True
+gl_prison,Zombie Prisoner,53,30,True
+gl_prison,Rybio,71,15,True
+gl_prison,Injustice,51,20,True
+gl_prison1,Hunter Fly,42,10,True
+gl_prison1,Skeleton Prisoner,52,30,True
+gl_prison1,Zherlthsh / Zealotus,63,1,True
+gl_prison1,Rybio,71,10,True
+gl_prison1,Phendark,73,10,True
+gl_prison1,Cramp,56,5,True
+gl_prison1,Injustice,51,40,True
+gl_knt01,Black Mushroom,1,12,False
+gl_knt01,Khalitzburg,63,10,True
+gl_knt01,Raydric,52,60,True
+gl_knt01,Giant Whisper,34,1,True
+gl_knt01,Rideword,59,21,True
+gl_knt01,Knight of Abyss / Abysmal Knight,79,10,True
+gl_knt01,Alice,62,1,False
+gl_knt01,Raydric Archer,52,20,True
+gl_knt02,Khalitzburg,63,10,True
+gl_knt02,Raydric,52,50,True
+gl_knt02,Mysteltainn,76,1,True
+gl_knt02,Knight of Abyss / Abysmal Knight,79,1,True
+gl_knt02,Bloody Knight,82,1,True
+gl_knt02,Alice,62,1,False
+gl_knt02,Raydric Archer,52,20,True
+gl_in01,Marionette,41,20,True
+gl_in01,Rideword,59,8,True
+gl_in01,Wander Man / Wanderer,74,1,True
+gl_in01,Dark Frame,59,10,True
+gl_in01,Alice,62,1,False
+gl_in01,Sage Worm,43,14,False
+gl_step,Mimic,51,5,True
+gl_step,Wind Ghost,51,100,True
+gl_step,Raydric Archer,52,10,True
+gl_sew01,Whisper,34,40,True
+gl_sew01,Arclouse / Arclouze,59,10,True
+gl_sew01,Gargoyle,48,30,True
+gl_sew02,Cramp,56,15,True
+gl_sew02,Gargoyle,48,55,True
+gl_sew03,Sting,61,70,True
+gl_sew03,Gargoyle,48,37,True
+gl_sew04,Drainliar,24,10,True
+gl_sew04,Anolian,61,100,True
+gl_sew04,Gargoyle,48,20,True
+gl_dun01,Arclouse / Arclouze,59,50,True
+gl_dun01,Sting,61,40,True
+gl_dun02,Gargoyle,48,15,True
+gl_dun02,Majoruros,66,45,True
+gon_dun01,Red Plant,1,5,False
+gon_dun01,Yellow Plant,1,10,False
+gon_dun01,White Plant,1,10,False
+gon_dun01,Bloody Butterfly,55,55,True
+gon_dun01,Live Peach Tree / Enchanted Peach Tree,53,35,True
+gon_dun01,Zipper Bear,35,30,False
+gon_dun02,Yellow Plant,1,10,False
+gon_dun02,Bloody Butterfly,55,20,True
+gon_dun02,Live Peach Tree / Enchanted Peach Tree,53,3,True
+gon_dun02,Evil Cloud Hermit / Taoist Hermit,56,20,True
+gon_dun02,Baby Leopard,32,6,True
+gon_dun03,White Plant,1,10,False
+gon_dun03,Evil Cloud Hermit / Taoist Hermit,56,30,True
+gon_dun03,Wild Ginseng / Hermit Plant,46,20,False
+gon_dun03,Wicked Nymph / Evil Nymph,63,50,True
+gon_dun03,Evil Snake Lord [MVP],73,1,True
+gld_dun02,Doppelganger [MVP],72,1,True
+gld_dun02,Killer Mantis,56,5,True
+gld_dun02,Owl Baron,75,3,True
+gld_dun02,Giant Hornet,56,10,True
+gld_dun02,Giant Spider,55,10,True
+gld_dun02,Ancient Worm,67,5,True
+gld_dun02_2,Maya [MVP],81,1,True
+gld_dun02_2,Maya Purple,81,3,True
+gld_dun02_2,Killer Mantis,56,30,True
+gld_dun02_2,Angra Mantis (Re-Stats),144,40,True
+gld2_ald,Maya Purple,81,3,True
+gld2_ald,Killer Mantis,56,60,True
+gld2_ald,Angra Mantis (Re-Stats),144,70,True
+gld2_ald,Gioia (Re-Stats) [MVP],146,1,True
+gld2_ald,Elvira (Re-Stats),138,1,True
+gld2_ald,Treasure Chest (Re-Stats),140,5,False
+gld_dun04,Ghostring,18,1,True
+gld_dun04,Dark Lord [MVP],80,1,True
+gld_dun04,Wraith Dead,74,20,True
+gld_dun04,Mini Demon,68,20,True
+gld_dun04,Zombie Master,62,20,True
+gld_dun04,Dark Illusion,77,1,True
+gld_dun04_2,Dark Lord [MVP],80,1,True
+gld_dun04_2,Dark Illusion,77,1,True
+gld_dun04_2,Abysmal Dark Shadow / Dark Shadow (Re-Stats),147,45,True
+gld_dun04_2,Abysmal Dark Frame / Dark Frame (Re-Stats),145,15,True
+gld_dun04_2,Abysmal Dark Priest / Dark Priest (Re-Stats),141,15,True
+gld2_gef,Dark Illusion,77,1,True
+gld2_gef,Kades / Dark Guardian Kades (Re-Stats) [MVP],143,1,True
+gld2_gef,Rudo (Re-Stats),135,1,True
+gld2_gef,Abysmal Dark Shadow / Dark Shadow (Re-Stats),147,80,True
+gld2_gef,Abysmal Dark Frame / Dark Frame (Re-Stats),145,20,True
+gld2_gef,Abysmal Dark Priest / Dark Priest (Re-Stats),141,20,True
+gld2_gef,Treasure Chest (Re-Stats),140,5,False
+gld_dun01,Vagabond Wolf,24,1,True
+gld_dun01,Eddga [MVP],65,1,True
+gld_dun01,Skeleton General,73,10,True
+gld_dun01,Am Mut,61,20,True
+gld_dun01,Cat o' Nine Tails,76,3,True
+gld_dun01,Gajomart,63,10,True
+gld_dun01_2,Eddga [MVP],65,1,True
+gld_dun01_2,Skeleton General,73,50,True
+gld_dun01_2,Am Mut,61,15,True
+gld_dun01_2,Gajomart,63,20,True
+gld2_pay,Skeleton General,73,60,True
+gld2_pay,Am Mut,61,25,True
+gld2_pay,Gajomart,63,30,True
+gld2_pay,Daehyon / General Daehyun (Re-Stats) [MVP],142,1,True
+gld2_pay,Soheon / Samurai Soheon (Re-Stats),137,1,True
+gld2_pay,Treasure Chest (Re-Stats),140,5,False
+gld_dun03,Maya [MVP],81,1,True
+gld_dun03,Maya Purple,81,3,True
+gld_dun03,Creamy Fear,62,20,True
+gld_dun03,Caterpillar,64,20,True
+gld_dun03,Leib Olmai,58,20,True
+gld_dun03,Gullinbursti,62,10,True
+gld_dun03_2,Kobold Leader,65,1,True
+gld_dun03_2,Atroce [MVP],82,1,True
+gld_dun03_2,Abysmal Kobold / Dark Axe Kobold (Re-Stats),145,13,True
+gld_dun03_2,Abysmal Kobold / Dark Hammer Kobold (Re-Stats),142,23,True
+gld_dun03_2,Abysmal Kobold / Dark Mace Kobold (Re-Stats),141,23,True
+gld_dun03_2,Abysmal / Dark Kobold Archer (Re-Stats),142,23,True
+gld2_prt,Pyuriel / Angry Student Pyuriel (Re-Stats) [MVP],141,1,True
+gld2_prt,Lora / Warrior Laura (Re-Stats),136,1,True
+gld2_prt,Abysmal Kobold / Dark Axe Kobold (Re-Stats),145,25,True
+gld2_prt,Abysmal Kobold / Dark Hammer Kobold (Re-Stats),142,35,True
+gld2_prt,Abysmal Kobold / Dark Mace Kobold (Re-Stats),141,35,True
+gld2_prt,Abysmal / Dark Kobold Archer (Re-Stats),142,35,True
+gld2_prt,Treasure Chest (Re-Stats),140,5,False
+schg_dun01,Cobalt Mineral,72,15,True
+schg_dun01,Heavy Metaling,73,15,True
+schg_dun01,Hell Apocalips / Hell Apocalypse,86,20,True
+schg_dun01,Zukadam / Zakudam,82,20,True
+arug_dun01,Aunoe,62,17,True
+arug_dun01,Fanat,62,17,True
+arug_dun01,Necromancer,88,18,True
+arug_dun01,Banshee Master,84,22,True
+arug_dun01,Beholder Master,70,17,True
+prt_maze01,Poring,1,5,False
+prt_maze01,Fabre,2,5,False
+prt_maze01,Pupa,2,5,False
+prt_maze01,Chonchon,4,5,False
+prt_maze01,Wolf,25,5,False
+prt_maze01,Creamy,16,1,False
+prt_maze01,Snake / Boa,15,5,False
+prt_maze01,Poporing,14,5,False
+prt_maze01,Hunter Fly,42,1,True
+prt_maze01,Side Winder,43,3,True
+prt_maze01,Steel Chonchon,17,5,False
+prt_maze01,Rocker,9,5,False
+prt_maze01,Smokie,18,5,False
+prt_maze01,Yoyo,21,4,False
+prt_maze01,Bigfoot,25,5,False
+prt_maze01,Lunatic,3,5,False
+prt_maze01,Red Plant,1,5,False
+prt_maze01,Blue Plant,1,3,False
+prt_maze01,Yellow Plant,1,2,False
+prt_maze01,White Plant,1,3,False
+prt_maze01,Shining Plant,1,2,False
+prt_maze01,Black Mushroom,1,5,False
+prt_maze01,Red Mushroom,1,5,False
+prt_maze01,Vagabond Wolf,24,1,True
+prt_maze01,Argiope,41,3,True
+prt_maze01,Argos,25,3,True
+prt_maze01,Caramel,23,5,False
+prt_maze01,Coco,17,5,False
+prt_maze01,Dustiness,21,5,False
+prt_maze01,Horn,18,5,False
+prt_maze01,Mantis,26,3,True
+prt_maze01,Martin,18,5,False
+prt_maze01,Savage,26,8,False
+prt_maze01,Stainer,16,5,False
+prt_maze01,Choco,43,2,True
+prt_maze02,Poporing,14,25,False
+prt_maze02,Bigfoot,25,5,False
+prt_maze02,Sasquatch,30,1,True
+prt_maze02,Leib Olmai,58,1,True
+prt_maze03,Poporing,14,45,False
+prt_maze03,Hunter Fly,42,30,True
+prt_maze03,Side Winder,43,10,True
+prt_maze03,Baphomet [MVP],81,1,True
+prt_maze03,Red Plant,1,5,False
+prt_maze03,Blue Plant,1,5,False
+prt_maze03,Yellow Plant,1,1,False
+prt_maze03,Shining Plant,1,5,False
+prt_maze03,Black Mushroom,1,6,False
+prt_maze03,Red Mushroom,1,5,False
+prt_maze03,Vocal,18,1,True
+prt_maze03,Mastering,2,1,True
+prt_maze03,Vagabond Wolf,24,1,True
+prt_maze03,Eclipse,6,1,True
+prt_maze03,Baphomet Jr.,50,25,True
+prt_maze03,Ghostring,18,1,True
+prt_maze03,Mantis,26,30,True
+prt_maze03,Stem Worm,40,20,True
+prt_maze03,Killer Mantis,56,1,True
+ice_dun01,Siroma,42,75,False
+ice_dun01,Gazeti,55,2,True
+ice_dun01,Muscipular,57,5,True
+ice_dun01,Roween,31,5,False
+ice_dun02,Snowier,60,70,True
+ice_dun02,Siroma,42,30,False
+ice_dun02,Ice Titan,60,7,True
+ice_dun02,Gazeti,55,15,True
+ice_dun02,Iceicle,38,4,True
+ice_dun03,Snowier,60,15,True
+ice_dun03,Ice Titan,60,12,True
+ice_dun03,Gazeti,55,32,True
+ice_dun03,Ktullanux [MVP],98,1[Spawn,True
+ice_dun03,Iceicle,38,2,True
+juperos_01,Dimik,79,5,True
+juperos_01,Dimik,89,5,True
+juperos_01,Dimik,80,5,True
+juperos_01,Dimik,82,5,True
+juperos_01,Venatu,72,70,True
+juperos_01,Venatu,80,70,True
+juperos_01,Venatu,78,70,True
+juperos_01,Venatu,75,50,True
+juperos_02,Apocalypse,66,70,False
+juperos_02,Venatu,72,65,True
+juperos_02,Venatu,80,65,True
+juperos_02,Venatu,78,65,True
+juperos_02,Venatu,75,50,True
+jupe_core,Archdam,79,40,True
+jupe_core,Dimik,79,40,True
+jupe_core,Dimik,89,40,True
+jupe_core,Dimik,80,40,True
+jupe_core,Dimik,82,40,True
+jupe_core,Venatu,72,25,True
+jupe_core,Venatu,80,25,True
+jupe_core,Venatu,78,25,True
+jupe_core,Vesper [MVP],97,1,True
+kh_dun01,Alice,62,25,False
+kh_dun01,Alicel,75,3,True
+kh_dun01,Aliot,75,3,True
+kh_dun01,Aliza,69,45,False
+kh_dun01,Constant,55,8,True
+kh_dun01,Constant,55,5,True
+kh_dun02,Kiel D-01 [MVP],90,1,True
+kh_dun02,Alicel,75,30,True
+kh_dun02,Aliot,75,25,True
+kh_dun02,Aliza,69,10,False
+kh_dun02,Constant,55,15,True
+kh_dun02,Constant,55,5,True
+lou_dun01,Side Winder,43,10,True
+lou_dun01,Shining Plant,1,5,False
+lou_dun01,Black Mushroom,1,5,False
+lou_dun01,Horong,34,15,True
+lou_dun01,Leib Olmai,58,1,True
+lou_dun01,Grizzly,68,15,True
+lou_dun01,Increase Soil / Mi Gao,51,15,False
+lou_dun01,Li Me Mang Ryang / Jing Guai,48,25,True
+lou_dun02,Munak,30,25,True
+lou_dun02,Mimic,51,5,True
+lou_dun02,Hyegun / Yao Jun,56,40,True
+lou_dun02,Dancing Dragon / Zhu Po Long,54,5,False
+lou_dun03,Hyegun / Yao Jun,56,25,True
+lou_dun03,Civil Servant / Mao Guai,62,15,True
+lou_dun03,Dancing Dragon / Zhu Po Long,54,25,False
+lou_dun03,Bacsojin / White Lady [MVP],85,1,True
+lou_dun03,Chung E / Green Maiden,59,5,True
+mag_dun01,Kaho,60,20,True
+mag_dun01,Lava Golem,77,20,True
+mag_dun01,Blazer,43,20,True
+mag_dun01,Grizzly,68,10,True
+mag_dun01,Explosion,46,30,True
+mag_dun02,Blazer,43,20,True
+mag_dun02,Nightmare Terror,78,17,True
+mag_dun02,Diabolic,67,5,True
+mag_dun02,Deleter,66,13,True
+mag_dun02,Deleter,65,25,True
+mag_dun02,Gig,60,10,True
+mal_dun01,Crab,20,10,False
+mal_dun01,Shellfish,15,10,False
+mal_dun01,Aster,18,20,False
+mal_dun01,Pouring,50,30,False
+mal_dun01,Red Eruma (Re-Stats),91,60,False
+mal_dun01,Siorava (Re-Stats),87,45,False
+mal_dun01,Wild Rider (Re-Stats),95,1,True
+mosk_dun01,Poporing,14,20,False
+mosk_dun01,Mantis,26,10,True
+mosk_dun01,Wood Goblin,42,66,False
+mosk_dun01,Les,39,33,False
+mosk_dun02,Wood Goblin,42,30,False
+mosk_dun02,Les,39,40,False
+mosk_dun02,Baba Yaga,49,20,True
+mosk_dun02,Uzhas,61,5,True
+mosk_dun03,Yellow Plant,1,10,False
+mosk_dun03,White Plant,1,10,False
+mosk_dun03,Shining Plant,1,5,False
+mosk_dun03,Baba Yaga,49,60,True
+mosk_dun03,Uzhas,61,35,True
+mosk_dun03,Mavka,63,15,True
+mosk_dun03,Gopinich [MVP],85,1,True
+nameless_n,Ghoul,40,40,True
+nameless_n,Zombie Slaughter,77,12,True
+nameless_n,Ragged Zombie,75,12,True
+nameless_n,Hell Poodle,71,17,True
+nameless_n,Banshee,81,16,True
+nameless_n,Flame Skull,60,3,True
+abbey01,Ghoul,40,56,True
+abbey01,Zombie Slaughter,77,30,True
+abbey01,Ragged Zombie,75,33,True
+abbey01,Hell Poodle,71,25,True
+abbey01,Banshee,81,93,True
+abbey01,Flame Skull,60,21,True
+abbey02,Zombie Slaughter,77,90,True
+abbey02,Ragged Zombie,75,70,True
+abbey02,Flame Skull,60,21,True
+abbey02,Necromancer,88,7,True
+abbey02,Fallen Bishop / Fallen Bishop Hibram [MVP],80,1,True
+abbey03,Banshee,81,30,True
+abbey03,Flame Skull,60,25,True
+abbey03,Necromancer,88,60,True
+abbey03,Beelzebub,98,1,True
+nyd_dun01,Draco,82,40,False
+nyd_dun01,Draco Egg,67,10,False
+nyd_dun01,Dark Pinguicula,83,10,True
+nyd_dun01,Aqua Elemental,83,20,True
+nyd_dun01,Rata,107,2,True
+nyd_dun01,Duneyrr,107,2,True
+odin_tem01,Blue Plant,1,5,False
+odin_tem01,Green Plant,1,5,False
+odin_tem01,Yellow Plant,1,5,False
+odin_tem01,Breeze,56,10,True
+odin_tem01,Plasma,56,10,True
+odin_tem01,Plasma,43,3,True
+odin_tem01,Plasma,47,3,True
+odin_tem01,Plasma,49,3,True
+odin_tem01,Plasma,44,3,True
+odin_tem01,Skogul,70,5,True
+odin_tem01,Frus,69,5,True
+odin_tem02,Blue Plant,1,10,False
+odin_tem02,Plasma,56,15,True
+odin_tem02,Skogul,70,30,True
+odin_tem02,Frus,69,30,True
+odin_tem02,Skeggiold,81,1,True
+odin_tem02,Skeggiold,83,1,True
+odin_tem02,Skogul,70,2,True
+odin_tem02,Frus,69,3,True
+odin_tem02,Valkyrie,99,1,True
+odin_tem03,Blue Plant,1,15,False
+odin_tem03,Shining Plant,1,15,False
+odin_tem03,Plasma,56,20,True
+odin_tem03,Valkyrie Randgris [MVP],99,1,True
+odin_tem03,Skogul,70,4,True
+odin_tem03,Frus,69,4,True
+odin_tem03,Skeggiold,81,16,True
+odin_tem03,Skeggiold,83,16,True
+odin_tem03,Skogul,70,5,True
+odin_tem03,Frus,69,5,True
+odin_tem03,Valkyrie,99,2,True
+orcsdun01,Familiar,8,15,True
+orcsdun01,Steel Chonchon,17,10,False
+orcsdun01,White Plant,1,5,False
+orcsdun01,Black Mushroom,1,10,False
+orcsdun01,Drainliar,24,5,True
+orcsdun01,Orc Skeleton,28,10,True
+orcsdun01,Orc Zombie,24,30,True
+orcsdun02,Steel Chonchon,17,20,False
+orcsdun02,White Plant,1,5,False
+orcsdun02,Black Mushroom,1,5,False
+orcsdun02,Drainliar,24,20,True
+orcsdun02,Orc Skeleton,28,20,True
+orcsdun02,Zenorc,31,20,False
+orcsdun02,Orc Archer,49,5,True
+pay_dun00,Familiar,8,15,True
+pay_dun00,Zombie,15,20,True
+pay_dun00,Poporing,14,15,False
+pay_dun00,Skeleton,10,35,False
+pay_dun00,Red Plant,1,15,False
+pay_dun00,Black Mushroom,1,3,False
+pay_dun01,Archer Skeleton,31,30,True
+pay_dun01,Soldier Skeleton,29,50,True
+pay_dun01,Red Plant,1,10,False
+pay_dun01,Black Mushroom,1,7,False
+pay_dun01,Drainliar,24,5,True
+pay_dun01,Eggyra,24,15,False
+pay_dun02,Archer Skeleton,31,20,True
+pay_dun02,Mandragora,12,3,True
+pay_dun02,Munak,30,40,True
+pay_dun02,Soldier Skeleton,29,15,True
+pay_dun02,Poporing,14,10,False
+pay_dun02,Hydra,14,4,True
+pay_dun02,Red Plant,1,8,False
+pay_dun02,White Plant,1,6,False
+pay_dun02,Black Mushroom,1,1,False
+pay_dun02,Nine Tail,51,1,True
+pay_dun02,Bongun,32,30,True
+pay_dun03,Mandragora,12,10,True
+pay_dun03,Munak,30,3,True
+pay_dun03,Hydra,14,17,True
+pay_dun03,Red Plant,1,15,False
+pay_dun03,Blue Plant,1,1,False
+pay_dun03,Green Plant,1,1,False
+pay_dun03,Yellow Plant,1,1,False
+pay_dun03,White Plant,1,5,False
+pay_dun03,Sohee,33,50,False
+pay_dun03,Nine Tail,51,1,True
+pay_dun03,Whisper,34,4,False
+pay_dun03,Giant Whisper,34,1,True
+pay_dun03,Bongun,32,3,True
+pay_dun03,Greatest General,40,3,True
+pay_dun04,Archer Skeleton,31,15,True
+pay_dun04,Red Plant,1,10,False
+pay_dun04,White Plant,1,6,False
+pay_dun04,Shining Plant,1,2,False
+pay_dun04,Dokebi,33,40,False
+pay_dun04,Horong,34,30,True
+pay_dun04,Moonlight Flower [MVP],67,1,True
+pay_dun04,Nine Tail,51,30,True
+pay_dun04,Greatest General,40,15,True
+pay_dun04,Skeleton General,73,1,True
+pay_dun04,Am Mut,61,1,True
+pay_dun04,Cat o' Nine Tails,76,1,True
+prt_sewb1,Familiar,8,10,True
+prt_sewb1,Thief Bug Egg,4,80,False
+prt_sewb1,Thief Bug,6,30,False
+prt_sewb1,Tarou,11,10,False
+prt_sewb2,Familiar,8,10,True
+prt_sewb2,Spore,16,20,False
+prt_sewb2,Thief Bug Egg,4,20,False
+prt_sewb2,Thief Bug,6,70,False
+prt_sewb2,Thief Bug Female,10,10,False
+prt_sewb2,Plankton,10,30,False
+prt_sewb2,Tarou,11,60,False
+prt_sewb3,Familiar,8,20,True
+prt_sewb3,Thief Bug Egg,4,10,False
+prt_sewb3,Thief Bug,6,20,False
+prt_sewb3,Thief Bug Female,10,65,False
+prt_sewb3,Thief Bug Male,19,65,True
+prt_sewb3,Poison Spore,19,15,True
+prt_sewb3,Tarou,11,15,False
+prt_sewb4,Thief Bug Egg,4,10,False
+prt_sewb4,Thief Bug,6,20,False
+prt_sewb4,Thief Bug Female,10,20,False
+prt_sewb4,Thief Bug Male,19,70,True
+prt_sewb4,Golden Thief Bug [MVP],64,1,True
+prt_sewb4,Drainliar,24,20,True
+prt_sewb4,Cramp,56,5,True
+moc_pryd01,Familiar,8,50,True
+moc_pryd01,Poporing,14,20,False
+moc_pryd02,Archer Skeleton,31,30,True
+moc_pryd02,Soldier Skeleton,29,30,True
+moc_pryd02,Isis,47,5,True
+moc_pryd02,Poporing,14,20,False
+moc_pryd02,Mummy,37,30,True
+moc_pryd02,Drainliar,24,20,True
+moc_pryd03,Verit,38,20,False
+moc_pryd03,Mummy,37,70,True
+moc_pryd03,Drainliar,24,5,True
+moc_pryd03,Matyr,31,10,True
+moc_pryd03,Mimic,51,5,True
+moc_pryd04,Isis,47,50,True
+moc_pryd04,Osiris [MVP],78,1,True
+moc_pryd04,Mummy,37,25,True
+moc_pryd04,Matyr,31,20,True
+moc_pryd04,Mimic,51,15,True
+moc_pryd04,Ancient Mummy,64,3,True
+moc_pryd05,Verit,38,50,False
+moc_pryd05,Mummy,37,10,True
+moc_pryd05,Minorous,52,60,True
+moc_pryd06,Verit,38,10,False
+moc_pryd06,Mimic,51,20,True
+moc_pryd06,Arclouse / Arclouze,59,20,True
+moc_pryd06,Ancient Mummy,64,20,True
+moc_pryd06,Amon Ra [MVP],88,1,True
+moc_prydn1,Nightmare Minorous (Re-Stats),121,60,True
+moc_prydn1,Nightmare Mummy (Re-Stats),117,10,True
+moc_prydn1,Nightmare Verit (Re-Stats),115,50,True
+moc_prydn2,Nightmare Verit (Re-Stats),115,30,True
+moc_prydn2,Nightmare Mimic (Re-Stats),137,30,True
+moc_prydn2,Nightmare Arclouse (Re-Stats),134,20,True
+moc_prydn2,Nightmare Ancient Mummy (Re-Stats),141,20,True
+moc_prydn2,Nightmare Amon Ra (Re-Stats) [MVP],145,1,True
+ra_san01,Gremlin,53,10,False
+ra_san01,Beholder,56,6,False
+ra_san01,Vanberk,59,34,True
+ra_san01,Isilla,62,26,True
+ra_san01,Hodremlin,61,6,True
+ra_san02,Gremlin,53,10,False
+ra_san02,Beholder,56,10,False
+ra_san02,Vanberk,59,30,True
+ra_san02,Isilla,62,85,True
+ra_san02,Hodremlin,61,3,True
+ra_san02,Seeker,65,2,True
+ra_san03,Gremlin,53,5,False
+ra_san03,Beholder,56,5,False
+ra_san03,Hodremlin,61,60,True
+ra_san03,Seeker,65,40,True
+ra_san04,Agav,73,20,True
+ra_san04,Echio,69,60,True
+ra_san04,Hodremlin,61,10,True
+ra_san04,Seeker,65,10,True
+ra_san05,Gloom Under Night [MVP],89,1,True
+ra_san05,Agav,73,70,True
+ra_san05,Echio,69,20,True
+ra_san05,Isilla,62,10,True
+ra_san05,Hodremlin,61,20,True
+ra_san05,Seeker,65,20,True
+dic_dun01,Scaraba / One-Horned Scaraba (Re-Stats),130,50,False
+dic_dun01,Scaraba / Two-Horned Scaraba (Re-Stats),134,45,False
+dic_dun01,Scaraba Egg (Re-Stats),125,15,False
+dic_dun01,Scaraba Egg (Re-Stats),126,15,False
+dic_dun02,Antler Scaraba (Re-Stats),136,50,True
+dic_dun02,Rake Scaraba (Re-Stats),139,45,True
+dic_dun02,Queen Scaraba / Scaraba Queen (Re-Stats) [MVP],140,1,True
+dic_dun02,Antler Scaraba Egg (Re-Stats),127,15,False
+dic_dun02,Rake Scaraba Egg (Re-Stats),128,15,False
+dic_dun03,Gold One-Horn Scaraba (Re-Stats),130,30,True
+dic_dun03,Gold Two-Horn Scaraba (Re-Stats),134,30,True
+dic_dun03,Gold Antler Scaraba (Re-Stats),136,40,True
+dic_dun03,Gold Rake Scaraba (Re-Stats),139,40,True
+dic_dun03,Gold Queen Scaraba (Re-Stats) [MVP],140,1,True
+dic_dun03,Gold One-Horn Scaraba Egg (Re-Stats),125,10,False
+dic_dun03,Gold Two-Horn Scaraba Egg (Re-Stats),126,10,False
+dic_dun03,Gold Antler Scaraba Egg (Re-Stats),127,10,False
+dic_dun03,Gold Rake Scaraba Egg (Re-Stats),128,10,False
+in_sphinx1,Drainliar,24,40,True
+in_sphinx1,Matyr,31,10,True
+in_sphinx1,Requiem,35,20,True
+in_sphinx1,Zerom,23,20,True
+in_sphinx2,Drainliar,24,15,True
+in_sphinx2,Matyr,31,20,True
+in_sphinx2,Requiem,35,50,True
+in_sphinx2,Zerom,23,50,True
+in_sphinx3,Marduk,40,65,True
+in_sphinx3,Matyr,31,15,True
+in_sphinx3,Pasana,61,5,True
+in_sphinx3,Mimic,51,5,True
+in_sphinx4,Anubis,75,15,True
+in_sphinx4,Minorous,52,50,True
+in_sphinx4,Pasana,61,20,True
+in_sphinx4,Mimic,51,4,True
+in_sphinx5,Side Winder,43,20,True
+in_sphinx5,Anubis,75,10,True
+in_sphinx5,Matyr,31,10,True
+in_sphinx5,Pasana,61,70,True
+in_sphinx5,Pharaoh [MVP],93,1,True
+in_sphinx5,Mimic,51,7,True
+treasure01,Hydra,14,58,True
+treasure01,Kukre,11,20,False
+treasure01,Pirate Skeleton,25,15,True
+treasure01,Poison Spore,19,6,True
+treasure01,Whisper,34,5,True
+treasure02,Hydra,14,18,True
+treasure02,Kukre,11,20,False
+treasure02,Pirate Skeleton,25,12,True
+treasure02,Drake [MVP],70,1,True
+treasure02,Ghostring,18,1,True
+treasure02,Marionette,41,1,True
+treasure02,Whisper,34,5,True
+treasure02,Mimic,51,2,True
+treasure02,Wander Man / Wanderer,74,1,True
+treasure02,Penomena,57,32,True
+tha_t01,Mimic,51,20,True
+tha_t01,Rideword,59,20,True
+tha_t01,Alice,62,5,False
+tha_t01,Plasma,47,20,True
+tha_t01,Solace / Lady Solace,77,4,True
+tha_t02,Mimic,51,30,True
+tha_t02,Rideword,59,10,True
+tha_t02,Alice,62,10,False
+tha_t02,Elder,64,10,True
+tha_t02,Plasma,44,20,True
+tha_t02,Deathword / Death Word,65,10,True
+tha_t02,Ancient Mimic,60,80,True
+tha_t02,Retribution / Baroness of Retribution,79,4,True
+tha_t03,Mimic,51,10,True
+tha_t03,Rideword,59,30,True
+tha_t03,Elder,64,10,True
+tha_t03,Plasma,49,20,True
+tha_t03,Deathword / Death Word,65,80,True
+tha_t03,Ancient Mimic,60,10,True
+tha_t03,Shelter / Mistress of Shelter,80,4,True
+tha_t04,Mimic,51,20,True
+tha_t04,Rideword,59,20,True
+tha_t04,Owl Baron,75,10,True
+tha_t04,Owl Duke,75,10,True
+tha_t04,Elder,64,20,True
+tha_t04,Plasma,43,20,True
+tha_t04,Deathword / Death Word,65,20,True
+tha_t04,Ancient Mimic,60,20,True
+tha_t04,Observation / Dame of Sentinel,81,4,True
+tha_t05,Owl Baron,75,20,True
+tha_t05,Owl Duke,75,80,True
+tha_t05,Elder,64,20,True
+tha_t05,Plasma,43,10,True
+tha_t05,Plasma,47,10,True
+tha_t05,Plasma,49,10,True
+tha_t05,Plasma,44,10,True
+tha_t05,Deathword / Death Word,65,40,True
+tha_t05,Ancient Mimic,60,40,True
+tha_t05,Thanatos Dolor / Dolor of Thanatos,83,2,True
+tha_t06,Owl Baron,75,40,True
+tha_t06,Owl Duke,75,40,True
+tha_t06,Elder,64,20,True
+tha_t06,Plasma,43,10,True
+tha_t06,Plasma,47,10,True
+tha_t06,Plasma,49,10,True
+tha_t06,Plasma,44,10,True
+tha_t06,Deathword / Death Word,65,40,True
+tha_t06,Ancient Mimic,60,40,True
+tha_t06,Thanatos Maero / Maero of Thanatos,83,2,True
+tha_t07,Deathword / Death Word,65,10,True
+tha_t07,Ancient Mimic,60,10,True
+tha_t07,Observation / Dame of Sentinel,81,7,True
+tha_t07,Shelter / Mistress of Shelter,80,7,True
+tha_t07,Retribution / Baroness of Retribution,79,15,True
+tha_t07,Solace / Lady Solace,77,7,True
+tha_t07,Thanatos Despero / Despero of Thanatos,88,2,True
+tha_t08,Deathword / Death Word,65,10,True
+tha_t08,Ancient Mimic,60,10,True
+tha_t08,Observation / Dame of Sentinel,81,5,True
+tha_t08,Shelter / Mistress of Shelter,80,5,True
+tha_t08,Retribution / Baroness of Retribution,79,20,True
+tha_t08,Solace / Lady Solace,77,5,True
+tha_t08,Thanatos Odium / Odium of Thanatos,92,2,True
+tha_t09,Plasma,43,5,True
+tha_t09,Observation / Dame of Sentinel,81,5,True
+tha_t09,Shelter / Mistress of Shelter,80,5,True
+tha_t09,Retribution / Baroness of Retribution,79,5,True
+tha_t09,Solace / Lady Solace,77,20,True
+tha_t09,Thanatos Dolor / Dolor of Thanatos,83,1,True
+tha_t09,Thanatos Dolor / Dolor of Thanatos,83,3,True
+tha_t10,Plasma,44,5,True
+tha_t10,Observation / Dame of Sentinel,81,5,True
+tha_t10,Shelter / Mistress of Shelter,80,5,True
+tha_t10,Retribution / Baroness of Retribution,79,20,True
+tha_t10,Solace / Lady Solace,77,5,True
+tha_t10,Thanatos Maero / Maero of Thanatos,83,1,True
+tha_t10,Thanatos Maero / Maero of Thanatos,83,3,True
+tha_t11,Plasma,47,5,True
+tha_t11,Observation / Dame of Sentinel,81,5,True
+tha_t11,Shelter / Mistress of Shelter,80,20,True
+tha_t11,Retribution / Baroness of Retribution,79,5,True
+tha_t11,Solace / Lady Solace,77,5,True
+tha_t11,Thanatos Despero / Despero of Thanatos,88,1,True
+tha_t11,Thanatos Despero / Despero of Thanatos,88,3,True
+tha_t12,Plasma,56,5,True
+tha_t12,Observation / Dame of Sentinel,81,13,True
+tha_t12,Shelter / Mistress of Shelter,80,5,True
+tha_t12,Retribution / Baroness of Retribution,79,5,True
+tha_t12,Solace / Lady Solace,77,5,True
+tha_t12,Thanatos Odium / Odium of Thanatos,92,4,True
+thana_boss,Thanatos / Memory of Thanatos [MVP],99,1[Spawn,True
+thor_v01,Sword Guardian / Sword Master,86,5,True
+thor_v01,Bow Guardian / Bow Master,80,5,True
+thor_v01,Salamander,91,5,True
+thor_v01,Kasa,85,45,True
+thor_v01,Magmaring,40,10,False
+thor_v01,Imp / Fire Imp,76,13,True
+thor_v01,Byorgue,86,1,True
+thor_v02,Kaho,60,10,True
+thor_v02,Sword Guardian / Sword Master,86,1,True
+thor_v02,Bow Guardian / Bow Master,80,1,True
+thor_v02,Salamander,91,1,True
+thor_v02,Magmaring,40,10,False
+thor_v02,Imp / Fire Imp,76,10,True
+thor_v02,Knocker,50,55,False
+thor_v03,Sword Guardian / Sword Master,86,5,True
+thor_v03,Bow Guardian / Bow Master,80,5,True
+thor_v03,Salamander,91,60,True
+thor_v03,Ifrit [MVP],99,1,True
+thor_v03,Kasa,85,40,True
+thor_v03,Byorgue,86,5,True
+xmas_dun01,Poring,1,10,False
+xmas_dun01,Poporing,14,20,False
+xmas_dun01,Mastering,2,1,True
+xmas_dun01,Angeling,20,1,True
+xmas_dun01,Drops,3,10,False
+xmas_dun01,Marin,15,20,False
+xmas_dun01,Christmas Cookie,28,40,False
+xmas_dun01,Myst Case,38,5,False
+xmas_dun01,Chepet,42,1,True
+xmas_dun01,Cookie,25,40,False
+xmas_dun02,Christmas Cookie,28,20,False
+xmas_dun02,Cruiser,35,35,True
+xmas_dun02,Myst Case,38,50,False
+xmas_dun02,Knight of Windstorm / Stormy Knight [MVP],77,1,True
+xmas_dun02,Cookie,25,20,False
+xmas_dun02,Garm Baby / Baby Hatii,61,1,True
+tur_dun01,Thara Frog,22,10,False
+tur_dun01,Pest,40,15,True
+tur_dun01,Permeter,63,10,False
+tur_dun01,Dragon Tail,61,25,True
+tur_dun01,Spring Rabbit,58,25,False
+tur_dun02,Pest,40,15,True
+tur_dun02,Permeter,63,40,False
+tur_dun02,Solider,70,40,False
+tur_dun02,Freezer,72,20,True
+tur_dun03,Permeter,63,15,False
+tur_dun03,Assaulter,71,35,True
+tur_dun03,Heater,68,10,True
+tur_dun03,Freezer,72,40,True
+tur_dun04,Wander Man / Wanderer,74,1,True
+tur_dun04,Turtle General [MVP],97,1,True
+tur_dun04,Permeter,63,2,False
+tur_dun04,Assaulter,71,8,True
+tur_dun04,Heater,68,3,True
+tur_dun04,Freezer,72,5,True
+um_dun01,Green Plant,1,5,False
+um_dun01,Yellow Plant,1,5,False
+um_dun01,Stone Shooter,42,70,True
+um_dun01,Wootan Shooter,39,10,True
+um_dun01,Wootan Fighter,41,10,True
+um_dun02,Red Plant,1,5,False
+um_dun02,Yellow Plant,1,5,False
+um_dun02,Shining Plant,1,6,False
+um_dun02,Driller,52,5,True
+um_dun02,Dryad,50,25,True
+um_dun02,Wooden Golem,51,8,True
+um_dun02,Wootan Shooter,39,10,True
